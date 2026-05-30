@@ -72,6 +72,9 @@ CleanWave/
 ## 문서
 
 - [CleanWave 프로젝트 계획서](CleanWave_프로젝트_계획서.md): 확정된 기획, MVP 범위, 수치, 제외 항목을 정리한 기준 문서입니다.
+- [팀 가이드](docs/TEAM_GUIDE.md): 역할 분담, 협업 원칙, 참고 문서 목록입니다.
+- [개발 및 협업 규칙](docs/DEVELOPMENT_RULES.md): Unity와 Git 작업 규칙입니다.
+- [역할별 작업 단위](docs/WORK_BREAKDOWN.md): 시스템, 맵/Scene, 에셋/UI 담당별 실행 단위입니다.
 
 ## 현재 상태
 
