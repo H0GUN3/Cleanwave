@@ -1,0 +1,38 @@
+{
+    "asset": "073bf60b6c80aa146ab508d196d14b85",
+    "fileName": "019eaa26-e318-7f44-bdbb-8dab1d9d0114.png",
+    "prompt": "2D top-down pixel art character WALK CYCLE sprite sheet, exactly 4 frames arranged in ONE horizontal row, evenly spaced, each frame the same size and the character centered in its frame. The character is a young cleanup worker with a green baseball cap, green shirt and dark work apron, matching the reference art. The character is FACING DOWN toward the viewer (we see the front/face) and walking in place: frame1 left leg forward, frame2 legs together, frame3 right leg forward, frame4 legs together. Clean readable pixel art, crisp outlines, fully transparent background, NO text, NO labels, NO grid lines.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "b5c0067a1b0d90e41bf3820cfeef8c68",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 1152
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

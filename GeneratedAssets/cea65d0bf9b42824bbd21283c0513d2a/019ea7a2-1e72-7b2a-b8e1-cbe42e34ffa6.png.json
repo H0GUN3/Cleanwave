@@ -1,0 +1,38 @@
+{
+    "asset": "cea65d0bf9b42824bbd21283c0513d2a",
+    "fileName": "019ea7a2-1e72-7b2a-b8e1-cbe42e34ffa6.png",
+    "prompt": "2D top-down pixel art game NPC sprite, a friendly bearded shopkeeper man wearing a green cap and green apron, full body standing front pose, recycling shop owner, clean readable pixel art, single character centered, transparent background. Match the art style of the reference sheet.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "28033fe6e8f2b6d4b9e597cb54ace1c4",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

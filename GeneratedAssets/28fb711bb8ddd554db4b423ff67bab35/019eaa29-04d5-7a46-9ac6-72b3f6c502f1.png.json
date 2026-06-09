@@ -1,0 +1,38 @@
+{
+    "asset": "28fb711bb8ddd554db4b423ff67bab35",
+    "fileName": "019eaa29-04d5-7a46-9ac6-72b3f6c502f1.png",
+    "prompt": "2D top-down pixel art character WALK CYCLE sprite sheet, exactly 4 frames in ONE horizontal row, evenly spaced, identical size, character centered in each frame. CRITICAL: in ALL FOUR frames the character is seen strictly from BEHIND (back view) — we see the BACK of the green baseball cap and the BACK of the body, the face is NEVER visible in any frame. The character is a young cleanup worker with a green cap, green shirt and dark work apron, matching the reference art, walking straight away from the viewer: frame1 left leg forward, frame2 legs together, frame3 right leg forward, frame4 legs together. Clean readable pixel art, crisp outlines, FULLY TRANSPARENT background (no gray, no checker, no box), NO text, NO labels.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "b5c0067a1b0d90e41bf3820cfeef8c68",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

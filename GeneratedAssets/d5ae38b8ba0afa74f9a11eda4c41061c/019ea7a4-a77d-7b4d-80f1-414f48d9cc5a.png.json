@@ -1,0 +1,38 @@
+{
+    "asset": "d5ae38b8ba0afa74f9a11eda4c41061c",
+    "fileName": "019ea7a4-a77d-7b4d-80f1-414f48d9cc5a.png",
+    "prompt": "2D top-down pixel art game item icon, food waste, an apple core and banana peel, small trash object, single item centered, clean readable pixel art, transparent background. Match the art style of the reference sheet.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "28033fe6e8f2b6d4b9e597cb54ace1c4",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 576
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}
