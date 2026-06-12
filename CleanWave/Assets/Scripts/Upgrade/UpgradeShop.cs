@@ -9,6 +9,8 @@ namespace CleanWave
         [SerializeField] private PlayerInteractor playerInteractor;
         [SerializeField] private BagInventory bagInventory;
         [SerializeField] private FeedbackUI feedbackUI;
+        [SerializeField] private PlayerEquipmentRenderer equipmentRenderer;
+        [SerializeField] private HudController hudController;
 
         private static readonly int[] costs = { 50, 100 };
         private int currentLevel = 0;
@@ -41,6 +43,8 @@ namespace CleanWave
                 case UpgradeType.Bag:
                     if (bagInventory != null)
                         bagInventory.Capacity = currentLevel == 1 ? 8 : 12;
+                    equipmentRenderer?.SetBagLevel(currentLevel);
+                    hudController?.RefreshBagIcon(currentLevel);
                     break;
 
                 case UpgradeType.Shoes:
@@ -55,6 +59,8 @@ namespace CleanWave
                 case UpgradeType.Tongs:
                     if (playerInteractor != null)
                         playerInteractor.InteractRange = currentLevel == 1 ? 1.5f : 2.0f;
+                    equipmentRenderer?.SetTongsLevel(currentLevel);
+                    hudController?.RefreshTongsIcon(currentLevel);
                     break;
             }
         }

@@ -9,6 +9,7 @@ namespace CleanWave
 
         private Rigidbody2D rb;
         private Animator anim;
+        private SpriteRenderer spriteRenderer;
         private Vector2 moveInput;
         private string currentDirection = "down";
 
@@ -23,6 +24,7 @@ namespace CleanWave
         {
             rb = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
+            spriteRenderer = GetComponent<SpriteRenderer>();
 
             rb.gravityScale = 0f;
             rb.freezeRotation = true;
@@ -54,7 +56,10 @@ namespace CleanWave
             if (Mathf.Abs(h) > Mathf.Abs(v))
             {
                 currentDirection = "side";
-                if (anim != null) anim.SetFloat("FaceX", h > 0 ? 1f : -1f);
+                float faceX = h > 0 ? 1f : -1f;
+                if (anim != null) anim.SetFloat("FaceX", faceX);
+                // Flip sprite instead of needing mirrored animation clips
+                if (spriteRenderer != null) spriteRenderer.flipX = faceX < 0f;
             }
             else if (v > 0.01f)
             {
