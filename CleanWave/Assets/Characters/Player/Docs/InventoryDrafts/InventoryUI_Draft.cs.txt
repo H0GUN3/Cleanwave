@@ -1,0 +1,93 @@
+using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.UI;
+
+public class InventoryUI : MonoBehaviour
+{
+    [Header("Data")]
+    [SerializeField] PlayerInventory inventory;
+
+    [Header("Always Visible Hotbar")]
+    [SerializeField] GameObject hotbarRoot;
+    [SerializeField] Image[] hotbarSlots;
+
+    [Header("Full Inventory")]
+    [SerializeField] GameObject fullInventoryRoot;
+    [SerializeField] Image[] fullInventorySlots;
+
+    [Header("Sprites")]
+    [SerializeField] Sprite emptySlotSprite;
+    [SerializeField] Sprite filledTrashSlotSprite;
+    [SerializeField] Sprite selectedSlotSprite;
+
+    void Awake()
+    {
+        if (inventory == null)
+            inventory = FindFirstObjectByType<PlayerInventory>();
+
+        if (fullInventoryRoot != null)
+            fullInventoryRoot.SetActive(false);
+    }
+
+    void OnEnable()
+    {
+        if (inventory != null)
+            inventory.Changed += Refresh;
+    }
+
+    void OnDisable()
+    {
+        if (inventory != null)
+            inventory.Changed -= Refresh;
+    }
+
+    void Start()
+    {
+        if (inventory != null)
+            Refresh(inventory.TrashCount, inventory.Capacity);
+    }
+
+    void Update()
+    {
+        Keyboard keyboard = Keyboard.current;
+        if (keyboard == null || fullInventoryRoot == null)
+            return;
+
+        if (keyboard.qKey.wasPressedThisFrame)
+            fullInventoryRoot.SetActive(!fullInventoryRoot.activeSelf);
+    }
+
+    void Refresh(int trashCount, int capacity)
+    {
+        RefreshSlots(hotbarSlots, trashCount, capacity, true);
+        RefreshSlots(fullInventorySlots, trashCount, capacity, false);
+    }
+
+    void RefreshSlots(Image[] slots, int trashCount, int capacity, bool markFirst)
+    {
+        if (slots == null)
+            return;
+
+        for (int i = 0; i < slots.Length; i++)
+        {
+            Image slot = slots[i];
+            if (slot == null)
+                continue;
+
+            bool insideCapacity = i < capacity;
+            bool filled = i < trashCount;
+
+            if (!insideCapacity)
+            {
+                slot.enabled = false;
+                continue;
+            }
+
+            slot.enabled = true;
+            if (markFirst && i == 0 && selectedSlotSprite != null)
+                slot.sprite = selectedSlotSprite;
+            else
+                slot.sprite = filled ? filledTrashSlotSprite : emptySlotSprite;
+        }
+    }
+}
