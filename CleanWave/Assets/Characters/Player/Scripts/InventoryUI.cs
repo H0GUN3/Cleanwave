@@ -31,9 +31,6 @@ public class InventoryUI : MonoBehaviour
 
     void Awake()
     {
-        if (playerBag == null)
-            playerBag = FindFirstObjectByType<PlayerBag>();
-
         if (fullInventoryRoot != null)
             fullInventoryRoot.SetActive(false);
     }
@@ -52,8 +49,15 @@ public class InventoryUI : MonoBehaviour
 
     void Start()
     {
+        if (playerBag == null)
+            playerBag = FindFirstObjectByType<PlayerBag>();
+
         if (playerBag != null)
+        {
+            playerBag.OnBagChanged.RemoveListener(Refresh);
+            playerBag.OnBagChanged.AddListener(Refresh);
             Refresh(playerBag.CurrentCount, playerBag.MaxCapacity);
+        }
     }
 
     void Update()
