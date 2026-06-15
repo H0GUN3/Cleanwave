@@ -8,6 +8,8 @@ using UnityEngine.InputSystem;
 public class TrashPickup : MonoBehaviour
 {
     [SerializeField] float pickupRange = 1.2f;
+    [SerializeField] AudioClip pickupSfx;
+    [SerializeField, Range(0f, 1f)] float pickupSfxVolume = 0.8f;
 
     static PlayerBag cachedBag;
 
@@ -27,6 +29,9 @@ public class TrashPickup : MonoBehaviour
 
         if (bag.TryAddTrash())
         {
+            if (pickupSfx != null)
+                AudioSource.PlayClipAtPoint(pickupSfx, transform.position, pickupSfxVolume);
+
             Destroy(gameObject);
         }
         // 가방이 가득 차면 TryAddTrash가 false → 쓰레기를 제거하지 않는다.

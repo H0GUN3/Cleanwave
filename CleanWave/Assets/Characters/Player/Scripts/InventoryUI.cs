@@ -29,6 +29,10 @@ public class InventoryUI : MonoBehaviour
     [Header("Fallback Colors")]
     [SerializeField] Color lockedSlotColor = new Color(0f, 0f, 0f, 0.25f);
 
+    [Header("Audio")]
+    [SerializeField] AudioClip inventoryOpenSfx;
+    [SerializeField, Range(0f, 1f)] float inventoryOpenSfxVolume = 0.8f;
+
     void Awake()
     {
         if (fullInventoryRoot != null)
@@ -67,7 +71,13 @@ public class InventoryUI : MonoBehaviour
             return;
 
         if (keyboard.qKey.wasPressedThisFrame)
-            fullInventoryRoot.SetActive(!fullInventoryRoot.activeSelf);
+        {
+            bool shouldOpen = !fullInventoryRoot.activeSelf;
+            fullInventoryRoot.SetActive(shouldOpen);
+
+            if (shouldOpen && inventoryOpenSfx != null)
+                AudioSource.PlayClipAtPoint(inventoryOpenSfx, Vector3.zero, inventoryOpenSfxVolume);
+        }
     }
 
     void Refresh(int currentCount, int maxCapacity)

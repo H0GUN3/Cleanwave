@@ -3058,6 +3058,8 @@ MonoBehaviour:
   selectedSlotSprite: {fileID: 21300000, guid: dcd8a94db095b2140bfee9bc369f3486, type: 3}
   trashSlotSprite: {fileID: 21300000, guid: 3822aa89946dae24ea79ca20746603cc, type: 3}
   lockedSlotColor: {r: 0, g: 0, b: 0, a: 0.25}
+  inventoryOpenSfx: {fileID: 8300000, guid: 4ca2585c06a8e0042b91587f19b9a6a3, type: 3}
+  inventoryOpenSfxVolume: 0.8
 --- !u!1 &6304849314179609622
 GameObject:
   m_ObjectHideFlags: 0
