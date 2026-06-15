@@ -17,9 +17,11 @@ public class MainMenuController : MonoBehaviour
     void Awake()
     {
         if (gameStartButton == null)
-            gameStartButton = transform.Find("GameStartButton")?.GetComponent<Button>();
+            gameStartButton = transform.Find("MenuRoot/GameStartButton")?.GetComponent<Button>()
+                ?? transform.Find("GameStartButton")?.GetComponent<Button>();
         if (exitButton == null)
-            exitButton = transform.Find("ExitButton")?.GetComponent<Button>();
+            exitButton = transform.Find("MenuRoot/ExitButton")?.GetComponent<Button>()
+                ?? transform.Find("ExitButton")?.GetComponent<Button>();
 
         if (gameStartButton != null)
         {
