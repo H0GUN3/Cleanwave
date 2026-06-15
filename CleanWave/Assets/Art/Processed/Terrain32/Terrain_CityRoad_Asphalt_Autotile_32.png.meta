@@ -1,0 +1,2033 @@
+fileFormatVersion: 2
+guid: 7dcf93a4c6e572a4a99f402017fa6afb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2414590988469418625
+    second: Terrain_CityRoad_Asphalt_Autotile_32_0
+  - first:
+      213: 3794303261945663550
+    second: Terrain_CityRoad_Asphalt_Autotile_32_1
+  - first:
+      213: 4062706001549330105
+    second: Terrain_CityRoad_Asphalt_Autotile_32_2
+  - first:
+      213: 6262128969510347597
+    second: Terrain_CityRoad_Asphalt_Autotile_32_3
+  - first:
+      213: 5406411530988511283
+    second: Terrain_CityRoad_Asphalt_Autotile_32_4
+  - first:
+      213: -7379091768047486231
+    second: Terrain_CityRoad_Asphalt_Autotile_32_5
+  - first:
+      213: -9179726221290049360
+    second: Terrain_CityRoad_Asphalt_Autotile_32_6
+  - first:
+      213: -7388252331439965257
+    second: Terrain_CityRoad_Asphalt_Autotile_32_7
+  - first:
+      213: 3290698484380987488
+    second: Terrain_CityRoad_Asphalt_Autotile_32_8
+  - first:
+      213: -6809531218419415885
+    second: Terrain_CityRoad_Asphalt_Autotile_32_9
+  - first:
+      213: 2489092712660126792
+    second: Terrain_CityRoad_Asphalt_Autotile_32_10
+  - first:
+      213: 8771287102469520350
+    second: Terrain_CityRoad_Asphalt_Autotile_32_11
+  - first:
+      213: -7901695304578163689
+    second: Terrain_CityRoad_Asphalt_Autotile_32_12
+  - first:
+      213: -6461187381600527221
+    second: Terrain_CityRoad_Asphalt_Autotile_32_13
+  - first:
+      213: 4496747630090113783
+    second: Terrain_CityRoad_Asphalt_Autotile_32_14
+  - first:
+      213: 2301514843448060833
+    second: Terrain_CityRoad_Asphalt_Autotile_32_15
+  - first:
+      213: -3260404363549370608
+    second: Terrain_CityRoad_Asphalt_Autotile_32_16
+  - first:
+      213: -9147389864657002329
+    second: Terrain_CityRoad_Asphalt_Autotile_32_17
+  - first:
+      213: -8976013429931905825
+    second: Terrain_CityRoad_Asphalt_Autotile_32_18
+  - first:
+      213: 6226869755449033242
+    second: Terrain_CityRoad_Asphalt_Autotile_32_19
+  - first:
+      213: 702044502116587081
+    second: Terrain_CityRoad_Asphalt_Autotile_32_20
+  - first:
+      213: -1053535721394594314
+    second: Terrain_CityRoad_Asphalt_Autotile_32_21
+  - first:
+      213: -3456320993785488125
+    second: Terrain_CityRoad_Asphalt_Autotile_32_22
+  - first:
+      213: 2343955455608248961
+    second: Terrain_CityRoad_Asphalt_Autotile_32_23
+  - first:
+      213: -3909793808056586427
+    second: Terrain_CityRoad_Asphalt_Autotile_32_24
+  - first:
+      213: -5574001409973448530
+    second: Terrain_CityRoad_Asphalt_Autotile_32_25
+  - first:
+      213: -8537447056776586894
+    second: Terrain_CityRoad_Asphalt_Autotile_32_26
+  - first:
+      213: -2946860824899472406
+    second: Terrain_CityRoad_Asphalt_Autotile_32_27
+  - first:
+      213: 6447435331955261808
+    second: Terrain_CityRoad_Asphalt_Autotile_32_28
+  - first:
+      213: 7772019416111133843
+    second: Terrain_CityRoad_Asphalt_Autotile_32_29
+  - first:
+      213: 8557131067064116364
+    second: Terrain_CityRoad_Asphalt_Autotile_32_30
+  - first:
+      213: -1384831032511160467
+    second: Terrain_CityRoad_Asphalt_Autotile_32_31
+  - first:
+      213: -7230780370607215246
+    second: Terrain_CityRoad_Asphalt_Autotile_32_32
+  - first:
+      213: -2827272860115378609
+    second: Terrain_CityRoad_Asphalt_Autotile_32_33
+  - first:
+      213: -7851828686273856804
+    second: Terrain_CityRoad_Asphalt_Autotile_32_34
+  - first:
+      213: -793891393840339772
+    second: Terrain_CityRoad_Asphalt_Autotile_32_35
+  - first:
+      213: -8520188509273318877
+    second: Terrain_CityRoad_Asphalt_Autotile_32_36
+  - first:
+      213: 475592049697483849
+    second: Terrain_CityRoad_Asphalt_Autotile_32_37
+  - first:
+      213: 2972411194398585081
+    second: Terrain_CityRoad_Asphalt_Autotile_32_38
+  - first:
+      213: -4551422159021791940
+    second: Terrain_CityRoad_Asphalt_Autotile_32_39
+  - first:
+      213: 3695846212464657884
+    second: Terrain_CityRoad_Asphalt_Autotile_32_40
+  - first:
+      213: 5656051659666347178
+    second: Terrain_CityRoad_Asphalt_Autotile_32_41
+  - first:
+      213: 3517575261791269633
+    second: Terrain_CityRoad_Asphalt_Autotile_32_42
+  - first:
+      213: 7625643420307402368
+    second: Terrain_CityRoad_Asphalt_Autotile_32_43
+  - first:
+      213: 5659876529980842451
+    second: Terrain_CityRoad_Asphalt_Autotile_32_44
+  - first:
+      213: -534347558524403245
+    second: Terrain_CityRoad_Asphalt_Autotile_32_45
+  - first:
+      213: 7872317696828075512
+    second: Terrain_CityRoad_Asphalt_Autotile_32_46
+  - first:
+      213: -5383112590991275888
+    second: Terrain_CityRoad_Asphalt_Autotile_32_47
+  - first:
+      213: 5862263536954515043
+    second: Terrain_CityRoad_Asphalt_Autotile_32_48
+  - first:
+      213: -3461487371345529231
+    second: Terrain_CityRoad_Asphalt_Autotile_32_49
+  - first:
+      213: -7616286934293290341
+    second: Terrain_CityRoad_Asphalt_Autotile_32_50
+  - first:
+      213: 4921301482236109092
+    second: Terrain_CityRoad_Asphalt_Autotile_32_51
+  - first:
+      213: -5811871097030293489
+    second: Terrain_CityRoad_Asphalt_Autotile_32_52
+  - first:
+      213: 7395958744674155513
+    second: Terrain_CityRoad_Asphalt_Autotile_32_53
+  - first:
+      213: 6745353620637958456
+    second: Terrain_CityRoad_Asphalt_Autotile_32_54
+  - first:
+      213: 5281869280620837949
+    second: Terrain_CityRoad_Asphalt_Autotile_32_55
+  - first:
+      213: -6912263959958575361
+    second: Terrain_CityRoad_Asphalt_Autotile_32_56
+  - first:
+      213: 6887821376529212607
+    second: Terrain_CityRoad_Asphalt_Autotile_32_57
+  - first:
+      213: -2695255784288588902
+    second: Terrain_CityRoad_Asphalt_Autotile_32_58
+  - first:
+      213: -8876158103890689750
+    second: Terrain_CityRoad_Asphalt_Autotile_32_59
+  - first:
+      213: 4726662331955695005
+    second: Terrain_CityRoad_Asphalt_Autotile_32_60
+  - first:
+      213: 1134118383618015139
+    second: Terrain_CityRoad_Asphalt_Autotile_32_61
+  - first:
+      213: -5711090352756980473
+    second: Terrain_CityRoad_Asphalt_Autotile_32_62
+  - first:
+      213: -7305007599048182250
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_00
+  - first:
+      213: 1906466029336047085
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_01
+  - first:
+      213: 5563341097421078799
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_02
+  - first:
+      213: 1020132175788743419
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_03
+  - first:
+      213: 5914348993748657145
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_04
+  - first:
+      213: -3349804634588777497
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_05
+  - first:
+      213: 8367538201590255701
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_06
+  - first:
+      213: 7520994571332830842
+    second: Terrain_CityRoad_Asphalt_Autotile_32_00_07
+  - first:
+      213: -2358485021377322673
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_00
+  - first:
+      213: 2128707668677896943
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_01
+  - first:
+      213: 6845374676296272161
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_02
+  - first:
+      213: -3049623850537071773
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_03
+  - first:
+      213: 2723937810999601317
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_04
+  - first:
+      213: 1168887575344792647
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_05
+  - first:
+      213: 4887760689184599745
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_06
+  - first:
+      213: -7075513139802309711
+    second: Terrain_CityRoad_Asphalt_Autotile_32_01_07
+  - first:
+      213: -885608474106912452
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_00
+  - first:
+      213: -397623905692519101
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_01
+  - first:
+      213: 783290404699547835
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_02
+  - first:
+      213: 4769467798333958711
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_03
+  - first:
+      213: 6594675820386806850
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_04
+  - first:
+      213: 7402234748535368851
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_05
+  - first:
+      213: -4266142588476989766
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_06
+  - first:
+      213: -2214729474504630729
+    second: Terrain_CityRoad_Asphalt_Autotile_32_02_07
+  - first:
+      213: -7418774595187148609
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_00
+  - first:
+      213: -5664178747378548803
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_01
+  - first:
+      213: -8953505710347809162
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_02
+  - first:
+      213: 7891594056377214574
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_03
+  - first:
+      213: 5646547272948664612
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_04
+  - first:
+      213: -2350797622071260683
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_05
+  - first:
+      213: 5161332612209722530
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_06
+  - first:
+      213: 1870594554174497038
+    second: Terrain_CityRoad_Asphalt_Autotile_32_03_07
+  - first:
+      213: -3821683497541641978
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_00
+  - first:
+      213: -4818391084879926019
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_01
+  - first:
+      213: -57430002308558239
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_02
+  - first:
+      213: 6965759633267101946
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_03
+  - first:
+      213: -4065205148942581354
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_04
+  - first:
+      213: 6154232509871157244
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_05
+  - first:
+      213: 4292067311108905147
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_06
+  - first:
+      213: -5758308301425512964
+    second: Terrain_CityRoad_Asphalt_Autotile_32_04_07
+  - first:
+      213: 7712639186411372957
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_00
+  - first:
+      213: -8986108686947651246
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_01
+  - first:
+      213: -6409498461281984323
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_02
+  - first:
+      213: 950033402406149371
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_03
+  - first:
+      213: 1795087552383681879
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_04
+  - first:
+      213: -3246497101258407350
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_05
+  - first:
+      213: 4268527289854861906
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_06
+  - first:
+      213: 7934584435959583166
+    second: Terrain_CityRoad_Asphalt_Autotile_32_05_07
+  - first:
+      213: -4717155379653974032
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_00
+  - first:
+      213: 612801318735418416
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_01
+  - first:
+      213: 9122615461171469462
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_02
+  - first:
+      213: -7149759898027456730
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_03
+  - first:
+      213: -7975818497521841704
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_04
+  - first:
+      213: 2310606675357046932
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_05
+  - first:
+      213: -7960638247436149893
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_06
+  - first:
+      213: -8652722345910545284
+    second: Terrain_CityRoad_Asphalt_Autotile_32_06_07
+  - first:
+      213: 9162864045418563180
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_00
+  - first:
+      213: 6259661764442222204
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_01
+  - first:
+      213: -2664982695650678119
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_02
+  - first:
+      213: -4147018093882179649
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_03
+  - first:
+      213: -1578491264335601297
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_04
+  - first:
+      213: 7727162164198230714
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_05
+  - first:
+      213: -8830323419498833521
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_06
+  - first:
+      213: -2222005036752782513
+    second: Terrain_CityRoad_Asphalt_Autotile_32_07_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6163431da466f9a90800000000000000
+      internalID: -7305007599048182250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedace6b0c0257a10800000000000000
+      internalID: 1906466029336047085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f018d149045f43d40800000000000000
+      internalID: 5563341097421078799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa95d91fcc382e00800000000000000
+      internalID: 1020132175788743419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e312031df31250800000000000000
+      internalID: 5914348993748657145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f060de6a1381d0800000000000000
+      internalID: -3349804634588777497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505c4649a77f1470800000000000000
+      internalID: 8367538201590255701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_00_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a764fe5f6b0ff5860800000000000000
+      internalID: 7520994571332830842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a9bc6e5af44fd0800000000000000
+      internalID: -2358485021377322673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2236a850ba8d10800000000000000
+      internalID: 2128707668677896943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129081feff7affe50800000000000000
+      internalID: 6845374676296272161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bcd2af34f8da5d0800000000000000
+      internalID: -3049623850537071773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e2eec10f5dc520800000000000000
+      internalID: 2723937810999601317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7444bc68e09b83010800000000000000
+      internalID: 1168887575344792647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce67f94370d4d340800000000000000
+      internalID: 4887760689184599745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_01_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb797a794abecd90800000000000000
+      internalID: -7075513139802309711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3128c2f8cfa5b3f0800000000000000
+      internalID: -885608474106912452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3457efa1a2b5b7af0800000000000000
+      internalID: -397623905692519101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a618197eceda00800000000000000
+      internalID: 783290404699547835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a2c5f51bd803240800000000000000
+      internalID: 4769467798333958711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6303f7bef48b50800000000000000
+      internalID: 6594675820386806850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ce08af8450ab660800000000000000
+      internalID: 7402234748535368851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abed9a43bed9bc4c0800000000000000
+      internalID: -4266142588476989766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_02_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e509ee643b341e0800000000000000
+      internalID: -2214729474504630729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87d21efc73b0990800000000000000
+      internalID: -7418774595187148609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf3f2a707bc461b0800000000000000
+      internalID: -5664178747378548803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e89408ef1ceb380800000000000000
+      internalID: -8953505710347809162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a2f99bf2948d60800000000000000
+      internalID: 7891594056377214574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4294e8bf3d09c5e40800000000000000
+      internalID: 5646547272948664612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f90c9d840a406fd0800000000000000
+      internalID: -2350797622071260683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a446663aacb0a740800000000000000
+      internalID: 5161332612209722530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_03_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e95016dfa5f910800000000000000
+      internalID: 1870594554174497038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609de0d6b17a6fac0800000000000000
+      internalID: -3821683497541641978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfca2d456d2a12db0800000000000000
+      internalID: -4818391084879926019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162d2f897b7f33ff0800000000000000
+      internalID: -57430002308558239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af014a3fa795ba060800000000000000
+      internalID: 6965759633267101946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6914036947d7597c0800000000000000
+      internalID: -4065205148942581354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffe7087cd9386550800000000000000
+      internalID: 6154232509871157244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb856b6aa7c709b30800000000000000
+      internalID: 4292067311108905147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_04_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd6952db116610b0800000000000000
+      internalID: -5758308301425512964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91ceca0a7cc80b60800000000000000
+      internalID: 7712639186411372957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251fe6972cdea4380800000000000000
+      internalID: -8986108686947651246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0efd2cb13ec07a0800000000000000
+      internalID: -6409498461281984323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9c2398523f2d00800000000000000
+      internalID: 950033402406149371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550e8c3e9e69e810800000000000000
+      internalID: 1795087552383681879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42482b461022f2d0800000000000000
+      internalID: -3246497101258407350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2522cd954fadc3b30800000000000000
+      internalID: 4268527289854861906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_05_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d6b9518e4d1e60800000000000000
+      internalID: 7934584435959583166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7e66dbc2c498eb0800000000000000
+      internalID: -4717155379653974032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349d197d8b118800800000000000000
+      internalID: 612801318735418416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c9c91ad6a0a9e70800000000000000
+      internalID: 9122615461171469462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6278db8f043f6cc90800000000000000
+      internalID: -7149759898027456730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9883e8553305190800000000000000
+      internalID: -7975818497521841704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4989d44778ce01020800000000000000
+      internalID: 2310606675357046932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b1e24f0b1268190800000000000000
+      internalID: -7960638247436149893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_06_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74dae7deda5be780800000000000000
+      internalID: -8652722345910545284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c664f586d48092f70800000000000000
+      internalID: 9162864045418563180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6caba539ced650800000000000000
+      internalID: 6259661764442222204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aad25ab54140bd0800000000000000
+      internalID: -2664982695650678119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff805f305d276c0800000000000000
+      internalID: -4147018093882179649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61283cee82181ae0800000000000000
+      internalID: -1578491264335601297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abacfde4c056c3b60800000000000000
+      internalID: 7727162164198230714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8995f092a3647580800000000000000
+      internalID: -8830323419498833521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_CityRoad_Asphalt_Autotile_32_07_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb837113ad921e0800000000000000
+      internalID: -2222005036752782513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Terrain_CityRoad_Asphalt_Autotile_32_0: -2414590988469418625
+      Terrain_CityRoad_Asphalt_Autotile_32_00_00: -7305007599048182250
+      Terrain_CityRoad_Asphalt_Autotile_32_00_01: 1906466029336047085
+      Terrain_CityRoad_Asphalt_Autotile_32_00_02: 5563341097421078799
+      Terrain_CityRoad_Asphalt_Autotile_32_00_03: 1020132175788743419
+      Terrain_CityRoad_Asphalt_Autotile_32_00_04: 5914348993748657145
+      Terrain_CityRoad_Asphalt_Autotile_32_00_05: -3349804634588777497
+      Terrain_CityRoad_Asphalt_Autotile_32_00_06: 8367538201590255701
+      Terrain_CityRoad_Asphalt_Autotile_32_00_07: 7520994571332830842
+      Terrain_CityRoad_Asphalt_Autotile_32_01_00: -2358485021377322673
+      Terrain_CityRoad_Asphalt_Autotile_32_01_01: 2128707668677896943
+      Terrain_CityRoad_Asphalt_Autotile_32_01_02: 6845374676296272161
+      Terrain_CityRoad_Asphalt_Autotile_32_01_03: -3049623850537071773
+      Terrain_CityRoad_Asphalt_Autotile_32_01_04: 2723937810999601317
+      Terrain_CityRoad_Asphalt_Autotile_32_01_05: 1168887575344792647
+      Terrain_CityRoad_Asphalt_Autotile_32_01_06: 4887760689184599745
+      Terrain_CityRoad_Asphalt_Autotile_32_01_07: -7075513139802309711
+      Terrain_CityRoad_Asphalt_Autotile_32_02_00: -885608474106912452
+      Terrain_CityRoad_Asphalt_Autotile_32_02_01: -397623905692519101
+      Terrain_CityRoad_Asphalt_Autotile_32_02_02: 783290404699547835
+      Terrain_CityRoad_Asphalt_Autotile_32_02_03: 4769467798333958711
+      Terrain_CityRoad_Asphalt_Autotile_32_02_04: 6594675820386806850
+      Terrain_CityRoad_Asphalt_Autotile_32_02_05: 7402234748535368851
+      Terrain_CityRoad_Asphalt_Autotile_32_02_06: -4266142588476989766
+      Terrain_CityRoad_Asphalt_Autotile_32_02_07: -2214729474504630729
+      Terrain_CityRoad_Asphalt_Autotile_32_03_00: -7418774595187148609
+      Terrain_CityRoad_Asphalt_Autotile_32_03_01: -5664178747378548803
+      Terrain_CityRoad_Asphalt_Autotile_32_03_02: -8953505710347809162
+      Terrain_CityRoad_Asphalt_Autotile_32_03_03: 7891594056377214574
+      Terrain_CityRoad_Asphalt_Autotile_32_03_04: 5646547272948664612
+      Terrain_CityRoad_Asphalt_Autotile_32_03_05: -2350797622071260683
+      Terrain_CityRoad_Asphalt_Autotile_32_03_06: 5161332612209722530
+      Terrain_CityRoad_Asphalt_Autotile_32_03_07: 1870594554174497038
+      Terrain_CityRoad_Asphalt_Autotile_32_04_00: -3821683497541641978
+      Terrain_CityRoad_Asphalt_Autotile_32_04_01: -4818391084879926019
+      Terrain_CityRoad_Asphalt_Autotile_32_04_02: -57430002308558239
+      Terrain_CityRoad_Asphalt_Autotile_32_04_03: 6965759633267101946
+      Terrain_CityRoad_Asphalt_Autotile_32_04_04: -4065205148942581354
+      Terrain_CityRoad_Asphalt_Autotile_32_04_05: 6154232509871157244
+      Terrain_CityRoad_Asphalt_Autotile_32_04_06: 4292067311108905147
+      Terrain_CityRoad_Asphalt_Autotile_32_04_07: -5758308301425512964
+      Terrain_CityRoad_Asphalt_Autotile_32_05_00: 7712639186411372957
+      Terrain_CityRoad_Asphalt_Autotile_32_05_01: -8986108686947651246
+      Terrain_CityRoad_Asphalt_Autotile_32_05_02: -6409498461281984323
+      Terrain_CityRoad_Asphalt_Autotile_32_05_03: 950033402406149371
+      Terrain_CityRoad_Asphalt_Autotile_32_05_04: 1795087552383681879
+      Terrain_CityRoad_Asphalt_Autotile_32_05_05: -3246497101258407350
+      Terrain_CityRoad_Asphalt_Autotile_32_05_06: 4268527289854861906
+      Terrain_CityRoad_Asphalt_Autotile_32_05_07: 7934584435959583166
+      Terrain_CityRoad_Asphalt_Autotile_32_06_00: -4717155379653974032
+      Terrain_CityRoad_Asphalt_Autotile_32_06_01: 612801318735418416
+      Terrain_CityRoad_Asphalt_Autotile_32_06_02: 9122615461171469462
+      Terrain_CityRoad_Asphalt_Autotile_32_06_03: -7149759898027456730
+      Terrain_CityRoad_Asphalt_Autotile_32_06_04: -7975818497521841704
+      Terrain_CityRoad_Asphalt_Autotile_32_06_05: 2310606675357046932
+      Terrain_CityRoad_Asphalt_Autotile_32_06_06: -7960638247436149893
+      Terrain_CityRoad_Asphalt_Autotile_32_06_07: -8652722345910545284
+      Terrain_CityRoad_Asphalt_Autotile_32_07_00: 9162864045418563180
+      Terrain_CityRoad_Asphalt_Autotile_32_07_01: 6259661764442222204
+      Terrain_CityRoad_Asphalt_Autotile_32_07_02: -2664982695650678119
+      Terrain_CityRoad_Asphalt_Autotile_32_07_03: -4147018093882179649
+      Terrain_CityRoad_Asphalt_Autotile_32_07_04: -1578491264335601297
+      Terrain_CityRoad_Asphalt_Autotile_32_07_05: 7727162164198230714
+      Terrain_CityRoad_Asphalt_Autotile_32_07_06: -8830323419498833521
+      Terrain_CityRoad_Asphalt_Autotile_32_07_07: -2222005036752782513
+      Terrain_CityRoad_Asphalt_Autotile_32_1: 3794303261945663550
+      Terrain_CityRoad_Asphalt_Autotile_32_10: 2489092712660126792
+      Terrain_CityRoad_Asphalt_Autotile_32_11: 8771287102469520350
+      Terrain_CityRoad_Asphalt_Autotile_32_12: -7901695304578163689
+      Terrain_CityRoad_Asphalt_Autotile_32_13: -6461187381600527221
+      Terrain_CityRoad_Asphalt_Autotile_32_14: 4496747630090113783
+      Terrain_CityRoad_Asphalt_Autotile_32_15: 2301514843448060833
+      Terrain_CityRoad_Asphalt_Autotile_32_16: -3260404363549370608
+      Terrain_CityRoad_Asphalt_Autotile_32_17: -9147389864657002329
+      Terrain_CityRoad_Asphalt_Autotile_32_18: -8976013429931905825
+      Terrain_CityRoad_Asphalt_Autotile_32_19: 6226869755449033242
+      Terrain_CityRoad_Asphalt_Autotile_32_2: 4062706001549330105
+      Terrain_CityRoad_Asphalt_Autotile_32_20: 702044502116587081
+      Terrain_CityRoad_Asphalt_Autotile_32_21: -1053535721394594314
+      Terrain_CityRoad_Asphalt_Autotile_32_22: -3456320993785488125
+      Terrain_CityRoad_Asphalt_Autotile_32_23: 2343955455608248961
+      Terrain_CityRoad_Asphalt_Autotile_32_24: -3909793808056586427
+      Terrain_CityRoad_Asphalt_Autotile_32_25: -5574001409973448530
+      Terrain_CityRoad_Asphalt_Autotile_32_26: -8537447056776586894
+      Terrain_CityRoad_Asphalt_Autotile_32_27: -2946860824899472406
+      Terrain_CityRoad_Asphalt_Autotile_32_28: 6447435331955261808
+      Terrain_CityRoad_Asphalt_Autotile_32_29: 7772019416111133843
+      Terrain_CityRoad_Asphalt_Autotile_32_3: 6262128969510347597
+      Terrain_CityRoad_Asphalt_Autotile_32_30: 8557131067064116364
+      Terrain_CityRoad_Asphalt_Autotile_32_31: -1384831032511160467
+      Terrain_CityRoad_Asphalt_Autotile_32_32: -7230780370607215246
+      Terrain_CityRoad_Asphalt_Autotile_32_33: -2827272860115378609
+      Terrain_CityRoad_Asphalt_Autotile_32_34: -7851828686273856804
+      Terrain_CityRoad_Asphalt_Autotile_32_35: -793891393840339772
+      Terrain_CityRoad_Asphalt_Autotile_32_36: -8520188509273318877
+      Terrain_CityRoad_Asphalt_Autotile_32_37: 475592049697483849
+      Terrain_CityRoad_Asphalt_Autotile_32_38: 2972411194398585081
+      Terrain_CityRoad_Asphalt_Autotile_32_39: -4551422159021791940
+      Terrain_CityRoad_Asphalt_Autotile_32_4: 5406411530988511283
+      Terrain_CityRoad_Asphalt_Autotile_32_40: 3695846212464657884
+      Terrain_CityRoad_Asphalt_Autotile_32_41: 5656051659666347178
+      Terrain_CityRoad_Asphalt_Autotile_32_42: 3517575261791269633
+      Terrain_CityRoad_Asphalt_Autotile_32_43: 7625643420307402368
+      Terrain_CityRoad_Asphalt_Autotile_32_44: 5659876529980842451
+      Terrain_CityRoad_Asphalt_Autotile_32_45: -534347558524403245
+      Terrain_CityRoad_Asphalt_Autotile_32_46: 7872317696828075512
+      Terrain_CityRoad_Asphalt_Autotile_32_47: -5383112590991275888
+      Terrain_CityRoad_Asphalt_Autotile_32_48: 5862263536954515043
+      Terrain_CityRoad_Asphalt_Autotile_32_49: -3461487371345529231
+      Terrain_CityRoad_Asphalt_Autotile_32_5: -7379091768047486231
+      Terrain_CityRoad_Asphalt_Autotile_32_50: -7616286934293290341
+      Terrain_CityRoad_Asphalt_Autotile_32_51: 4921301482236109092
+      Terrain_CityRoad_Asphalt_Autotile_32_52: -5811871097030293489
+      Terrain_CityRoad_Asphalt_Autotile_32_53: 7395958744674155513
+      Terrain_CityRoad_Asphalt_Autotile_32_54: 6745353620637958456
+      Terrain_CityRoad_Asphalt_Autotile_32_55: 5281869280620837949
+      Terrain_CityRoad_Asphalt_Autotile_32_56: -6912263959958575361
+      Terrain_CityRoad_Asphalt_Autotile_32_57: 6887821376529212607
+      Terrain_CityRoad_Asphalt_Autotile_32_58: -2695255784288588902
+      Terrain_CityRoad_Asphalt_Autotile_32_59: -8876158103890689750
+      Terrain_CityRoad_Asphalt_Autotile_32_6: -9179726221290049360
+      Terrain_CityRoad_Asphalt_Autotile_32_60: 4726662331955695005
+      Terrain_CityRoad_Asphalt_Autotile_32_61: 1134118383618015139
+      Terrain_CityRoad_Asphalt_Autotile_32_62: -5711090352756980473
+      Terrain_CityRoad_Asphalt_Autotile_32_7: -7388252331439965257
+      Terrain_CityRoad_Asphalt_Autotile_32_8: 3290698484380987488
+      Terrain_CityRoad_Asphalt_Autotile_32_9: -6809531218419415885
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

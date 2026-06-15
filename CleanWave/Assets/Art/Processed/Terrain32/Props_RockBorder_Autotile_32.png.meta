@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 49c146d3000415240b428bd734a37e3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8474371932184972262
+    second: Props_RockBorder_Autotile_32_0
+  - first:
+      213: -1225432392775095415
+    second: Props_RockBorder_Autotile_32_00_00
+  - first:
+      213: 8544796492596448506
+    second: Props_RockBorder_Autotile_32_00_01
+  - first:
+      213: 2247354825387781485
+    second: Props_RockBorder_Autotile_32_00_02
+  - first:
+      213: -684197486097881149
+    second: Props_RockBorder_Autotile_32_00_03
+  - first:
+      213: 1700806717181925636
+    second: Props_RockBorder_Autotile_32_00_04
+  - first:
+      213: -8216877789089224151
+    second: Props_RockBorder_Autotile_32_00_05
+  - first:
+      213: -745454022329370001
+    second: Props_RockBorder_Autotile_32_00_06
+  - first:
+      213: 5251056996071545829
+    second: Props_RockBorder_Autotile_32_00_07
+  - first:
+      213: -4750707757366047993
+    second: Props_RockBorder_Autotile_32_01_00
+  - first:
+      213: -8164903570790518679
+    second: Props_RockBorder_Autotile_32_01_01
+  - first:
+      213: 2088396042183526988
+    second: Props_RockBorder_Autotile_32_01_02
+  - first:
+      213: -7095731132121693825
+    second: Props_RockBorder_Autotile_32_01_03
+  - first:
+      213: -5022436267635329258
+    second: Props_RockBorder_Autotile_32_01_04
+  - first:
+      213: -8868505300368004498
+    second: Props_RockBorder_Autotile_32_01_05
+  - first:
+      213: 8651988166778772655
+    second: Props_RockBorder_Autotile_32_01_06
+  - first:
+      213: 194590690449006989
+    second: Props_RockBorder_Autotile_32_01_07
+  - first:
+      213: -2638700359307855056
+    second: Props_RockBorder_Autotile_32_02_00
+  - first:
+      213: 6881119434934624823
+    second: Props_RockBorder_Autotile_32_02_01
+  - first:
+      213: 6353897337737213845
+    second: Props_RockBorder_Autotile_32_02_02
+  - first:
+      213: -638172858146189588
+    second: Props_RockBorder_Autotile_32_02_03
+  - first:
+      213: -556729739190326098
+    second: Props_RockBorder_Autotile_32_02_04
+  - first:
+      213: -4616920425323039580
+    second: Props_RockBorder_Autotile_32_02_05
+  - first:
+      213: -7011922815449066548
+    second: Props_RockBorder_Autotile_32_02_06
+  - first:
+      213: 354358409061653383
+    second: Props_RockBorder_Autotile_32_02_07
+  - first:
+      213: 194650743845560321
+    second: Props_RockBorder_Autotile_32_03_00
+  - first:
+      213: 6327547991143393911
+    second: Props_RockBorder_Autotile_32_03_01
+  - first:
+      213: -5001751398623073898
+    second: Props_RockBorder_Autotile_32_03_02
+  - first:
+      213: -3765566883777975024
+    second: Props_RockBorder_Autotile_32_03_03
+  - first:
+      213: -250831682744718060
+    second: Props_RockBorder_Autotile_32_03_04
+  - first:
+      213: -3910150005030386461
+    second: Props_RockBorder_Autotile_32_03_05
+  - first:
+      213: 8535909916809242135
+    second: Props_RockBorder_Autotile_32_03_06
+  - first:
+      213: 4232858596363046825
+    second: Props_RockBorder_Autotile_32_03_07
+  - first:
+      213: 1590599009934269456
+    second: Props_RockBorder_Autotile_32_04_00
+  - first:
+      213: 1848075871621716485
+    second: Props_RockBorder_Autotile_32_04_01
+  - first:
+      213: -1122539946089553079
+    second: Props_RockBorder_Autotile_32_04_02
+  - first:
+      213: 5363969663277931587
+    second: Props_RockBorder_Autotile_32_04_03
+  - first:
+      213: -9219438714672937791
+    second: Props_RockBorder_Autotile_32_04_04
+  - first:
+      213: -8723138806424169412
+    second: Props_RockBorder_Autotile_32_04_05
+  - first:
+      213: -8784760576649144735
+    second: Props_RockBorder_Autotile_32_04_06
+  - first:
+      213: 4468249732900516807
+    second: Props_RockBorder_Autotile_32_04_07
+  - first:
+      213: 177031250714002074
+    second: Props_RockBorder_Autotile_32_05_00
+  - first:
+      213: -4330893976503101696
+    second: Props_RockBorder_Autotile_32_05_01
+  - first:
+      213: -86395550141432070
+    second: Props_RockBorder_Autotile_32_05_02
+  - first:
+      213: 6548322865060535240
+    second: Props_RockBorder_Autotile_32_05_03
+  - first:
+      213: -2284341175070989398
+    second: Props_RockBorder_Autotile_32_05_04
+  - first:
+      213: -32055619344079017
+    second: Props_RockBorder_Autotile_32_05_05
+  - first:
+      213: 3037627290734182975
+    second: Props_RockBorder_Autotile_32_05_06
+  - first:
+      213: -2955347441602006687
+    second: Props_RockBorder_Autotile_32_05_07
+  - first:
+      213: -1673295540442364089
+    second: Props_RockBorder_Autotile_32_06_00
+  - first:
+      213: 529051713322749425
+    second: Props_RockBorder_Autotile_32_06_01
+  - first:
+      213: -2379701818894808797
+    second: Props_RockBorder_Autotile_32_06_02
+  - first:
+      213: 4504491957422389362
+    second: Props_RockBorder_Autotile_32_06_03
+  - first:
+      213: 7943552586984666871
+    second: Props_RockBorder_Autotile_32_06_04
+  - first:
+      213: -3921091003288157426
+    second: Props_RockBorder_Autotile_32_06_05
+  - first:
+      213: -3102250347139347794
+    second: Props_RockBorder_Autotile_32_06_06
+  - first:
+      213: -8448619970904978365
+    second: Props_RockBorder_Autotile_32_06_07
+  - first:
+      213: 2955347712897629049
+    second: Props_RockBorder_Autotile_32_07_00
+  - first:
+      213: 2539104068385338285
+    second: Props_RockBorder_Autotile_32_07_01
+  - first:
+      213: -5997827544460050720
+    second: Props_RockBorder_Autotile_32_07_02
+  - first:
+      213: 6375351463750733666
+    second: Props_RockBorder_Autotile_32_07_03
+  - first:
+      213: 4144218191661801762
+    second: Props_RockBorder_Autotile_32_07_04
+  - first:
+      213: -7964265689125996004
+    second: Props_RockBorder_Autotile_32_07_05
+  - first:
+      213: 692526277804557480
+    second: Props_RockBorder_Autotile_32_07_06
+  - first:
+      213: 2962915931550667951
+    second: Props_RockBorder_Autotile_32_07_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b226c3bb36efee0800000000000000
+      internalID: -1225432392775095415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc07334327359670800000000000000
+      internalID: 8544796492596448506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6daf738e45303f10800000000000000
+      internalID: 2247354825387781485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7abece20e3186f0800000000000000
+      internalID: -684197486097881149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4091a31b2ba7a9710800000000000000
+      internalID: 1700806717181925636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a2a8a8f29c7fd80800000000000000
+      internalID: -8216877789089224151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6afbaa248d97a5f0800000000000000
+      internalID: -745454022329370001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_00_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9c2244808fd840800000000000000
+      internalID: 5251056996071545829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b018a0778121eb0800000000000000
+      internalID: -4750707757366047993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96076bd367f60be80800000000000000
+      internalID: -8164903570790518679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4ea4b2297bfc10800000000000000
+      internalID: 2088396042183526988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71c4305126e68d90800000000000000
+      internalID: -7095731132121693825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617be8813d8bc4ab0800000000000000
+      internalID: -5022436267635329258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a65eaaa6dbce480800000000000000
+      internalID: -8868505300368004498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac5bb1c569021870800000000000000
+      internalID: 8651988166778772655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_01_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81afc4b33353b200800000000000000
+      internalID: 194590690449006989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b72cee004716bd0800000000000000
+      internalID: -2638700359307855056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732a0581ba5ae7f50800000000000000
+      internalID: 6881119434934624823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597702bd6f39d2850800000000000000
+      internalID: 6353897337737213845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee86ecaa21c427f0800000000000000
+      internalID: -638172858146189588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac2aab70491648f0800000000000000
+      internalID: -556729739190326098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4ff5ca5576defb0800000000000000
+      internalID: -4616920425323039580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc393b0a955a0be90800000000000000
+      internalID: -7011922815449066548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_02_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bda47781feae400800000000000000
+      internalID: 354358409061653383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1002e2af1d983b200800000000000000
+      internalID: 194650743845560321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aa6578f57ffc750800000000000000
+      internalID: 6327547991143393911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69922467a95369ab0800000000000000
+      internalID: -5001751398623073898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d607abed40ebbc0800000000000000
+      internalID: -3765566883777975024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d669bd9edd48cf0800000000000000
+      internalID: -250831682744718060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e40cab894b5cb9c0800000000000000
+      internalID: -3910150005030386461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716262a18d4a57670800000000000000
+      internalID: 8535909916809242135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_03_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af8dac77722eba30800000000000000
+      internalID: 4232858596363046825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c58374f51f21610800000000000000
+      internalID: 1590599009934269456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9bf5b63fa5a910800000000000000
+      internalID: 1848075871621716485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9436523dddfeb60f0800000000000000
+      internalID: -1122539946089553079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c17ad3df5a07a40800000000000000
+      internalID: 5363969663277931587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c48f6fe559fd0080800000000000000
+      internalID: -9219438714672937791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3499a4097f21f680800000000000000
+      internalID: -8723138806424169412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166d8f79cc2461680800000000000000
+      internalID: -8784760576649144735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_04_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3f4415579620e30800000000000000
+      internalID: 4468249732900516807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9283fc0cf0f47200800000000000000
+      internalID: 177031250714002074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00757aadfd295e3c0800000000000000
+      internalID: -4330893976503101696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe35a374bf0dcef0800000000000000
+      internalID: -86395550141432070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb508683f050ea50800000000000000
+      internalID: 6548322865060535240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa36812edc36c40e0800000000000000
+      internalID: -2284341175070989398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e0f3859d1e8ff0800000000000000
+      internalID: -32055619344079017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324e384de1d72a20800000000000000
+      internalID: 3037627290734182975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_05_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f373f82f7cf6d0800000000000000
+      internalID: -2955347441602006687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74700bb429247c8e0800000000000000
+      internalID: -1673295540442364089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0a60fab1975700800000000000000
+      internalID: 529051713322749425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298c6dcdc999fed0800000000000000
+      internalID: -2379701818894808797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f3c7c19b238e30800000000000000
+      internalID: 4504491957422389362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63bd9bdfa2d3e60800000000000000
+      internalID: 7943552586984666871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e038701e18c7599c0800000000000000
+      internalID: -3921091003288157426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa4d66eeb792f4d0800000000000000
+      internalID: -3102250347139347794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_06_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c00ff26e870ca80800000000000000
+      internalID: -8448619970904978365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb6073611830920800000000000000
+      internalID: 2955347712897629049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da37bdb82b5bc3320800000000000000
+      internalID: 2539104068385338285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb76c40af63cca0800000000000000
+      internalID: -5997827544460050720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f0123d06cc97850800000000000000
+      internalID: 6375351463750733666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221a6b10d78338930800000000000000
+      internalID: 4144218191661801762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a30de5d8e397190800000000000000
+      internalID: -7964265689125996004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a40a220bf85c9900800000000000000
+      internalID: 692526277804557480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_RockBorder_Autotile_32_07_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45c6f67546e1920800000000000000
+      internalID: 2962915931550667951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Props_RockBorder_Autotile_32_0: -8474371932184972262
+      Props_RockBorder_Autotile_32_00_00: -1225432392775095415
+      Props_RockBorder_Autotile_32_00_01: 8544796492596448506
+      Props_RockBorder_Autotile_32_00_02: 2247354825387781485
+      Props_RockBorder_Autotile_32_00_03: -684197486097881149
+      Props_RockBorder_Autotile_32_00_04: 1700806717181925636
+      Props_RockBorder_Autotile_32_00_05: -8216877789089224151
+      Props_RockBorder_Autotile_32_00_06: -745454022329370001
+      Props_RockBorder_Autotile_32_00_07: 5251056996071545829
+      Props_RockBorder_Autotile_32_01_00: -4750707757366047993
+      Props_RockBorder_Autotile_32_01_01: -8164903570790518679
+      Props_RockBorder_Autotile_32_01_02: 2088396042183526988
+      Props_RockBorder_Autotile_32_01_03: -7095731132121693825
+      Props_RockBorder_Autotile_32_01_04: -5022436267635329258
+      Props_RockBorder_Autotile_32_01_05: -8868505300368004498
+      Props_RockBorder_Autotile_32_01_06: 8651988166778772655
+      Props_RockBorder_Autotile_32_01_07: 194590690449006989
+      Props_RockBorder_Autotile_32_02_00: -2638700359307855056
+      Props_RockBorder_Autotile_32_02_01: 6881119434934624823
+      Props_RockBorder_Autotile_32_02_02: 6353897337737213845
+      Props_RockBorder_Autotile_32_02_03: -638172858146189588
+      Props_RockBorder_Autotile_32_02_04: -556729739190326098
+      Props_RockBorder_Autotile_32_02_05: -4616920425323039580
+      Props_RockBorder_Autotile_32_02_06: -7011922815449066548
+      Props_RockBorder_Autotile_32_02_07: 354358409061653383
+      Props_RockBorder_Autotile_32_03_00: 194650743845560321
+      Props_RockBorder_Autotile_32_03_01: 6327547991143393911
+      Props_RockBorder_Autotile_32_03_02: -5001751398623073898
+      Props_RockBorder_Autotile_32_03_03: -3765566883777975024
+      Props_RockBorder_Autotile_32_03_04: -250831682744718060
+      Props_RockBorder_Autotile_32_03_05: -3910150005030386461
+      Props_RockBorder_Autotile_32_03_06: 8535909916809242135
+      Props_RockBorder_Autotile_32_03_07: 4232858596363046825
+      Props_RockBorder_Autotile_32_04_00: 1590599009934269456
+      Props_RockBorder_Autotile_32_04_01: 1848075871621716485
+      Props_RockBorder_Autotile_32_04_02: -1122539946089553079
+      Props_RockBorder_Autotile_32_04_03: 5363969663277931587
+      Props_RockBorder_Autotile_32_04_04: -9219438714672937791
+      Props_RockBorder_Autotile_32_04_05: -8723138806424169412
+      Props_RockBorder_Autotile_32_04_06: -8784760576649144735
+      Props_RockBorder_Autotile_32_04_07: 4468249732900516807
+      Props_RockBorder_Autotile_32_05_00: 177031250714002074
+      Props_RockBorder_Autotile_32_05_01: -4330893976503101696
+      Props_RockBorder_Autotile_32_05_02: -86395550141432070
+      Props_RockBorder_Autotile_32_05_03: 6548322865060535240
+      Props_RockBorder_Autotile_32_05_04: -2284341175070989398
+      Props_RockBorder_Autotile_32_05_05: -32055619344079017
+      Props_RockBorder_Autotile_32_05_06: 3037627290734182975
+      Props_RockBorder_Autotile_32_05_07: -2955347441602006687
+      Props_RockBorder_Autotile_32_06_00: -1673295540442364089
+      Props_RockBorder_Autotile_32_06_01: 529051713322749425
+      Props_RockBorder_Autotile_32_06_02: -2379701818894808797
+      Props_RockBorder_Autotile_32_06_03: 4504491957422389362
+      Props_RockBorder_Autotile_32_06_04: 7943552586984666871
+      Props_RockBorder_Autotile_32_06_05: -3921091003288157426
+      Props_RockBorder_Autotile_32_06_06: -3102250347139347794
+      Props_RockBorder_Autotile_32_06_07: -8448619970904978365
+      Props_RockBorder_Autotile_32_07_00: 2955347712897629049
+      Props_RockBorder_Autotile_32_07_01: 2539104068385338285
+      Props_RockBorder_Autotile_32_07_02: -5997827544460050720
+      Props_RockBorder_Autotile_32_07_03: 6375351463750733666
+      Props_RockBorder_Autotile_32_07_04: 4144218191661801762
+      Props_RockBorder_Autotile_32_07_05: -7964265689125996004
+      Props_RockBorder_Autotile_32_07_06: 692526277804557480
+      Props_RockBorder_Autotile_32_07_07: 2962915931550667951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

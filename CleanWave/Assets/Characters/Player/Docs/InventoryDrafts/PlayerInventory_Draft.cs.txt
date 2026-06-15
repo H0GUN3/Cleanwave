@@ -1,0 +1,42 @@
+using System;
+using UnityEngine;
+
+public class PlayerInventory : MonoBehaviour
+{
+    [SerializeField] int capacity = 5;
+    [SerializeField] int trashCount;
+
+    public event Action<int, int> Changed;
+
+    public int Capacity => capacity;
+    public int TrashCount => trashCount;
+    public bool IsFull => trashCount >= capacity;
+
+    public bool TryAddTrash(int amount = 1)
+    {
+        if (amount <= 0 || IsFull)
+            return false;
+
+        int addable = Mathf.Min(amount, capacity - trashCount);
+        trashCount += addable;
+        Changed?.Invoke(trashCount, capacity);
+        return addable == amount;
+    }
+
+    public bool TryRemoveTrash(int amount = 1)
+    {
+        if (amount <= 0 || trashCount < amount)
+            return false;
+
+        trashCount -= amount;
+        Changed?.Invoke(trashCount, capacity);
+        return true;
+    }
+
+    public void SetCapacity(int newCapacity)
+    {
+        capacity = Mathf.Max(0, newCapacity);
+        trashCount = Mathf.Min(trashCount, capacity);
+        Changed?.Invoke(trashCount, capacity);
+    }
+}

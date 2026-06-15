@@ -1,0 +1,2029 @@
+fileFormatVersion: 2
+guid: 11802b270c892d849a203bb1b8d63235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2174245952533812091
+    second: Terrain_DirtRoad_Autotile_32_0
+  - first:
+      213: -5128993934019797178
+    second: Terrain_DirtRoad_Autotile_32_1
+  - first:
+      213: 1291083408702891002
+    second: Terrain_DirtRoad_Autotile_32_2
+  - first:
+      213: -5903899237488944460
+    second: Terrain_DirtRoad_Autotile_32_3
+  - first:
+      213: -8140274487619992583
+    second: Terrain_DirtRoad_Autotile_32_4
+  - first:
+      213: -1704022237067628900
+    second: Terrain_DirtRoad_Autotile_32_5
+  - first:
+      213: 7528938743992934731
+    second: Terrain_DirtRoad_Autotile_32_6
+  - first:
+      213: -6229130265683464116
+    second: Terrain_DirtRoad_Autotile_32_7
+  - first:
+      213: 372851224635926751
+    second: Terrain_DirtRoad_Autotile_32_8
+  - first:
+      213: -8674948842813529820
+    second: Terrain_DirtRoad_Autotile_32_9
+  - first:
+      213: -7955557439173581454
+    second: Terrain_DirtRoad_Autotile_32_10
+  - first:
+      213: 4758744583406143463
+    second: Terrain_DirtRoad_Autotile_32_11
+  - first:
+      213: -8106375695056166308
+    second: Terrain_DirtRoad_Autotile_32_12
+  - first:
+      213: -7876322288360747627
+    second: Terrain_DirtRoad_Autotile_32_13
+  - first:
+      213: 9120113243323639511
+    second: Terrain_DirtRoad_Autotile_32_14
+  - first:
+      213: 5057762666375821442
+    second: Terrain_DirtRoad_Autotile_32_15
+  - first:
+      213: 3551705589397484014
+    second: Terrain_DirtRoad_Autotile_32_16
+  - first:
+      213: -6789693026650556239
+    second: Terrain_DirtRoad_Autotile_32_17
+  - first:
+      213: 8986427847746846050
+    second: Terrain_DirtRoad_Autotile_32_18
+  - first:
+      213: 8707678039168135027
+    second: Terrain_DirtRoad_Autotile_32_19
+  - first:
+      213: -5678577548051779855
+    second: Terrain_DirtRoad_Autotile_32_20
+  - first:
+      213: 8484354770772753879
+    second: Terrain_DirtRoad_Autotile_32_21
+  - first:
+      213: 7391584328445132416
+    second: Terrain_DirtRoad_Autotile_32_22
+  - first:
+      213: -8025428382888775
+    second: Terrain_DirtRoad_Autotile_32_23
+  - first:
+      213: -6693763827647785574
+    second: Terrain_DirtRoad_Autotile_32_24
+  - first:
+      213: -6590584140561997747
+    second: Terrain_DirtRoad_Autotile_32_25
+  - first:
+      213: -8599466886330114521
+    second: Terrain_DirtRoad_Autotile_32_26
+  - first:
+      213: -2227278921797579655
+    second: Terrain_DirtRoad_Autotile_32_27
+  - first:
+      213: -5984862327942740994
+    second: Terrain_DirtRoad_Autotile_32_28
+  - first:
+      213: 2083365767100153165
+    second: Terrain_DirtRoad_Autotile_32_29
+  - first:
+      213: 1696880655480400331
+    second: Terrain_DirtRoad_Autotile_32_30
+  - first:
+      213: 5182923023376069797
+    second: Terrain_DirtRoad_Autotile_32_31
+  - first:
+      213: 7549120277759074542
+    second: Terrain_DirtRoad_Autotile_32_32
+  - first:
+      213: 7329044574415690345
+    second: Terrain_DirtRoad_Autotile_32_33
+  - first:
+      213: -1777887733983892238
+    second: Terrain_DirtRoad_Autotile_32_34
+  - first:
+      213: -4598849559792015978
+    second: Terrain_DirtRoad_Autotile_32_35
+  - first:
+      213: -1175919850769898302
+    second: Terrain_DirtRoad_Autotile_32_36
+  - first:
+      213: 7014992010445875763
+    second: Terrain_DirtRoad_Autotile_32_37
+  - first:
+      213: 1659840930451467526
+    second: Terrain_DirtRoad_Autotile_32_38
+  - first:
+      213: -5367473797809116917
+    second: Terrain_DirtRoad_Autotile_32_39
+  - first:
+      213: -5395692041288925457
+    second: Terrain_DirtRoad_Autotile_32_40
+  - first:
+      213: -7465537628069239377
+    second: Terrain_DirtRoad_Autotile_32_41
+  - first:
+      213: 5727589055751744139
+    second: Terrain_DirtRoad_Autotile_32_42
+  - first:
+      213: 1159759617319741156
+    second: Terrain_DirtRoad_Autotile_32_43
+  - first:
+      213: 3215883311256221116
+    second: Terrain_DirtRoad_Autotile_32_44
+  - first:
+      213: -818718635253165940
+    second: Terrain_DirtRoad_Autotile_32_45
+  - first:
+      213: -3334524057452658261
+    second: Terrain_DirtRoad_Autotile_32_46
+  - first:
+      213: 4885070323881507347
+    second: Terrain_DirtRoad_Autotile_32_47
+  - first:
+      213: -5388146896206081299
+    second: Terrain_DirtRoad_Autotile_32_48
+  - first:
+      213: -511011131177393744
+    second: Terrain_DirtRoad_Autotile_32_49
+  - first:
+      213: -5564950331215349380
+    second: Terrain_DirtRoad_Autotile_32_50
+  - first:
+      213: -5963699768150437109
+    second: Terrain_DirtRoad_Autotile_32_51
+  - first:
+      213: 7115137628133477311
+    second: Terrain_DirtRoad_Autotile_32_52
+  - first:
+      213: -3717636897272073570
+    second: Terrain_DirtRoad_Autotile_32_53
+  - first:
+      213: -167050443021071836
+    second: Terrain_DirtRoad_Autotile_32_54
+  - first:
+      213: -2143221892747447145
+    second: Terrain_DirtRoad_Autotile_32_55
+  - first:
+      213: 6625856515877024401
+    second: Terrain_DirtRoad_Autotile_32_56
+  - first:
+      213: 7874458550562216359
+    second: Terrain_DirtRoad_Autotile_32_57
+  - first:
+      213: 4456963062335689795
+    second: Terrain_DirtRoad_Autotile_32_58
+  - first:
+      213: 2978465710073570333
+    second: Terrain_DirtRoad_Autotile_32_59
+  - first:
+      213: -2988904081191981808
+    second: Terrain_DirtRoad_Autotile_32_60
+  - first:
+      213: 7740915241442206558
+    second: Terrain_DirtRoad_Autotile_32_61
+  - first:
+      213: -7297760065282888299
+    second: Terrain_DirtRoad_Autotile_32_00_00
+  - first:
+      213: 5307688810276742277
+    second: Terrain_DirtRoad_Autotile_32_00_01
+  - first:
+      213: 7809992044060738921
+    second: Terrain_DirtRoad_Autotile_32_00_02
+  - first:
+      213: 3693445484585458502
+    second: Terrain_DirtRoad_Autotile_32_00_03
+  - first:
+      213: 5438348519592431351
+    second: Terrain_DirtRoad_Autotile_32_00_04
+  - first:
+      213: -4039198115024858095
+    second: Terrain_DirtRoad_Autotile_32_00_05
+  - first:
+      213: 4143386471697733547
+    second: Terrain_DirtRoad_Autotile_32_00_06
+  - first:
+      213: -452222381915551049
+    second: Terrain_DirtRoad_Autotile_32_00_07
+  - first:
+      213: -1921379152678528080
+    second: Terrain_DirtRoad_Autotile_32_01_00
+  - first:
+      213: 1319726033867957752
+    second: Terrain_DirtRoad_Autotile_32_01_01
+  - first:
+      213: -7404995629034739755
+    second: Terrain_DirtRoad_Autotile_32_01_02
+  - first:
+      213: -3164666767576675687
+    second: Terrain_DirtRoad_Autotile_32_01_03
+  - first:
+      213: -4474038215951220551
+    second: Terrain_DirtRoad_Autotile_32_01_04
+  - first:
+      213: 1746450520426341113
+    second: Terrain_DirtRoad_Autotile_32_01_05
+  - first:
+      213: 1115893712317820600
+    second: Terrain_DirtRoad_Autotile_32_01_06
+  - first:
+      213: 3580373507858568209
+    second: Terrain_DirtRoad_Autotile_32_01_07
+  - first:
+      213: -4507020272896575870
+    second: Terrain_DirtRoad_Autotile_32_02_00
+  - first:
+      213: -2291730977106329012
+    second: Terrain_DirtRoad_Autotile_32_02_01
+  - first:
+      213: 7991365543713237935
+    second: Terrain_DirtRoad_Autotile_32_02_02
+  - first:
+      213: 4724091021493703066
+    second: Terrain_DirtRoad_Autotile_32_02_03
+  - first:
+      213: -5714800758670666269
+    second: Terrain_DirtRoad_Autotile_32_02_04
+  - first:
+      213: 4848325983945672771
+    second: Terrain_DirtRoad_Autotile_32_02_05
+  - first:
+      213: 5047425723592827263
+    second: Terrain_DirtRoad_Autotile_32_02_06
+  - first:
+      213: -2633759275041200785
+    second: Terrain_DirtRoad_Autotile_32_02_07
+  - first:
+      213: 3803853459359507240
+    second: Terrain_DirtRoad_Autotile_32_03_00
+  - first:
+      213: -6818859395260097312
+    second: Terrain_DirtRoad_Autotile_32_03_01
+  - first:
+      213: 3030886048568244807
+    second: Terrain_DirtRoad_Autotile_32_03_02
+  - first:
+      213: -4305788506261025271
+    second: Terrain_DirtRoad_Autotile_32_03_03
+  - first:
+      213: 7440471827140344429
+    second: Terrain_DirtRoad_Autotile_32_03_04
+  - first:
+      213: -2593582869697135831
+    second: Terrain_DirtRoad_Autotile_32_03_05
+  - first:
+      213: 4532501839702209172
+    second: Terrain_DirtRoad_Autotile_32_03_06
+  - first:
+      213: -5623971261366684846
+    second: Terrain_DirtRoad_Autotile_32_03_07
+  - first:
+      213: -924712351157108034
+    second: Terrain_DirtRoad_Autotile_32_04_00
+  - first:
+      213: -2363395728627173110
+    second: Terrain_DirtRoad_Autotile_32_04_01
+  - first:
+      213: -1686678751667355029
+    second: Terrain_DirtRoad_Autotile_32_04_02
+  - first:
+      213: 223613382276660091
+    second: Terrain_DirtRoad_Autotile_32_04_03
+  - first:
+      213: 6064503818736680004
+    second: Terrain_DirtRoad_Autotile_32_04_04
+  - first:
+      213: -1875889530361622791
+    second: Terrain_DirtRoad_Autotile_32_04_05
+  - first:
+      213: 9118670076149799094
+    second: Terrain_DirtRoad_Autotile_32_04_06
+  - first:
+      213: -1340992515561123142
+    second: Terrain_DirtRoad_Autotile_32_04_07
+  - first:
+      213: -2400696456788174587
+    second: Terrain_DirtRoad_Autotile_32_05_00
+  - first:
+      213: -2299412246752627870
+    second: Terrain_DirtRoad_Autotile_32_05_01
+  - first:
+      213: -8535450195125032242
+    second: Terrain_DirtRoad_Autotile_32_05_02
+  - first:
+      213: 2233935713211394717
+    second: Terrain_DirtRoad_Autotile_32_05_03
+  - first:
+      213: -6339801378878427903
+    second: Terrain_DirtRoad_Autotile_32_05_04
+  - first:
+      213: 5585064170386294342
+    second: Terrain_DirtRoad_Autotile_32_05_05
+  - first:
+      213: 4982174803273601354
+    second: Terrain_DirtRoad_Autotile_32_05_06
+  - first:
+      213: -5334245610055553067
+    second: Terrain_DirtRoad_Autotile_32_05_07
+  - first:
+      213: -2400384567076310720
+    second: Terrain_DirtRoad_Autotile_32_06_00
+  - first:
+      213: 5377959566218153982
+    second: Terrain_DirtRoad_Autotile_32_06_01
+  - first:
+      213: -579452292502603323
+    second: Terrain_DirtRoad_Autotile_32_06_02
+  - first:
+      213: -470015449044966537
+    second: Terrain_DirtRoad_Autotile_32_06_03
+  - first:
+      213: -2876178726752625835
+    second: Terrain_DirtRoad_Autotile_32_06_04
+  - first:
+      213: -1337446877486983874
+    second: Terrain_DirtRoad_Autotile_32_06_05
+  - first:
+      213: 4303652682498030699
+    second: Terrain_DirtRoad_Autotile_32_06_06
+  - first:
+      213: -6708858153878445728
+    second: Terrain_DirtRoad_Autotile_32_06_07
+  - first:
+      213: -5206139163705273269
+    second: Terrain_DirtRoad_Autotile_32_07_00
+  - first:
+      213: -1668768212685279234
+    second: Terrain_DirtRoad_Autotile_32_07_01
+  - first:
+      213: -8020633234152122236
+    second: Terrain_DirtRoad_Autotile_32_07_02
+  - first:
+      213: -3173078953917428115
+    second: Terrain_DirtRoad_Autotile_32_07_03
+  - first:
+      213: 3663724879160281255
+    second: Terrain_DirtRoad_Autotile_32_07_04
+  - first:
+      213: -2128843854912873621
+    second: Terrain_DirtRoad_Autotile_32_07_05
+  - first:
+      213: 8309111912121942096
+    second: Terrain_DirtRoad_Autotile_32_07_06
+  - first:
+      213: -4386546124626195529
+    second: Terrain_DirtRoad_Autotile_32_07_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d28c4c2e529ba90800000000000000
+      internalID: -7297760065282888299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846cd20ad2b8a940800000000000000
+      internalID: 5307688810276742277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9650edc826aa26c60800000000000000
+      internalID: 7809992044060738921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9cf97911c14330800000000000000
+      internalID: 3693445484585458502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe041b3a25e87b40800000000000000
+      internalID: 5438348519592431351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114148807b2e1f7c0800000000000000
+      internalID: -4039198115024858095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7d3bc1b04408930800000000000000
+      internalID: 4143386471697733547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_00_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba417eb32269b9f0800000000000000
+      internalID: -452222381915551049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb51cd27d3e555e0800000000000000
+      internalID: -1921379152678528080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5e889e5db905210800000000000000
+      internalID: 1319726033867957752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7601075bb2c3990800000000000000
+      internalID: -7404995629034739755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99acb1e8758d414d0800000000000000
+      internalID: -3164666767576675687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b084b272f509e1c0800000000000000
+      internalID: -4474038215951220551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2eec7ce73ac3810800000000000000
+      internalID: 1746450520426341113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beabc94b637c7f00800000000000000
+      internalID: 1115893712317820600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_01_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114112b5cba00b130800000000000000
+      internalID: 3580373507858568209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f386e0f8d371c0800000000000000
+      internalID: -4507020272896575870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4281d481d22230e0800000000000000
+      internalID: -2291730977106329012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe2573f9807ee60800000000000000
+      internalID: 7991365543713237935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a919eb631c75f8140800000000000000
+      internalID: 4724091021493703066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e55d410df2f0b0b0800000000000000
+      internalID: -5714800758670666269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348c06c7bc6b84340800000000000000
+      internalID: 4848325983945672771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f716be404fe0c0640800000000000000
+      internalID: 5047425723592827263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_02_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f656743c4e1037bd0800000000000000
+      internalID: -2633759275041200785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a3ce41900ac430800000000000000
+      internalID: 3803853459359507240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecdf24028b8e51a0800000000000000
+      internalID: -6818859395260097312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af8978dcedf0a20800000000000000
+      internalID: 3030886048568244807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0a56aa24ce34c0800000000000000
+      internalID: -4305788506261025271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a700a94bdd14760800000000000000
+      internalID: 7440471827140344429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf9241f1eb10cd0800000000000000
+      internalID: -2593582869697135831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4923143b86ea6ee30800000000000000
+      internalID: 4532501839702209172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_03_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253bb335fe3a3f1b0800000000000000
+      internalID: -5623971261366684846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb24dd51403ca23f0800000000000000
+      internalID: -924712351157108034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09708b4b18833fd0800000000000000
+      internalID: -2363395728627173110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b620bac9c96b798e0800000000000000
+      internalID: -1686678751667355029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bbf99bf2f6a1300800000000000000
+      internalID: 223613382276660091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cbcce8712792450800000000000000
+      internalID: 6064503818736680004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fecbe8396087f5e0800000000000000
+      internalID: -1875889530361622791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b894e81f160c8e70800000000000000
+      internalID: 9118670076149799094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_04_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab295877966d36de0800000000000000
+      internalID: -1340992515561123142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5091a9fba430faed0800000000000000
+      internalID: -2400696456788174587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26370209eb8d610e0800000000000000
+      internalID: -2299412246752627870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa881354dfb8980800000000000000
+      internalID: -8535450195125032242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a260df1b8800f10800000000000000
+      internalID: 2233935713211394717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d6b615c308408a0800000000000000
+      internalID: -6339801378878427903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64603a3a542228d40800000000000000
+      internalID: 5585064170386294342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41560e369d342540800000000000000
+      internalID: 4982174803273601354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_05_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa3f331e3f8f5b0800000000000000
+      internalID: -5334245610055553067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041361b34fe10bed0800000000000000
+      internalID: -2400384567076310720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effc8d85bb952aa40800000000000000
+      internalID: 5377959566218153982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b815c53f55f7f0800000000000000
+      internalID: -579452292502603323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773aab8707b2a79f0800000000000000
+      internalID: -470015449044966537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bdf59cfa2c518d0800000000000000
+      internalID: -2876178726752625835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35de69a62f607de0800000000000000
+      internalID: -1337446877486983874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cb3f02055a9bb30800000000000000
+      internalID: 4303652682498030699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_06_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a799dd0955e2a0800000000000000
+      internalID: -6708858153878445728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441910930410c7b0800000000000000
+      internalID: -5206139163705273269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff2e6ee62857d8e0800000000000000
+      internalID: -1668768212685279234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889ba4919cf0b090800000000000000
+      internalID: -8020633234152122236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ecb7bc085f6f3d0800000000000000
+      internalID: -3173078953917428115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a80c19cd5a28d230800000000000000
+      internalID: 3663724879160281255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b15a50bc3d472e0800000000000000
+      internalID: -2128843854912873621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cef0b245ef4370800000000000000
+      internalID: 8309111912121942096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_DirtRoad_Autotile_32_07_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0ac26a8bdf13c0800000000000000
+      internalID: -4386546124626195529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Terrain_DirtRoad_Autotile_32_0: -2174245952533812091
+      Terrain_DirtRoad_Autotile_32_00_00: -7297760065282888299
+      Terrain_DirtRoad_Autotile_32_00_01: 5307688810276742277
+      Terrain_DirtRoad_Autotile_32_00_02: 7809992044060738921
+      Terrain_DirtRoad_Autotile_32_00_03: 3693445484585458502
+      Terrain_DirtRoad_Autotile_32_00_04: 5438348519592431351
+      Terrain_DirtRoad_Autotile_32_00_05: -4039198115024858095
+      Terrain_DirtRoad_Autotile_32_00_06: 4143386471697733547
+      Terrain_DirtRoad_Autotile_32_00_07: -452222381915551049
+      Terrain_DirtRoad_Autotile_32_01_00: -1921379152678528080
+      Terrain_DirtRoad_Autotile_32_01_01: 1319726033867957752
+      Terrain_DirtRoad_Autotile_32_01_02: -7404995629034739755
+      Terrain_DirtRoad_Autotile_32_01_03: -3164666767576675687
+      Terrain_DirtRoad_Autotile_32_01_04: -4474038215951220551
+      Terrain_DirtRoad_Autotile_32_01_05: 1746450520426341113
+      Terrain_DirtRoad_Autotile_32_01_06: 1115893712317820600
+      Terrain_DirtRoad_Autotile_32_01_07: 3580373507858568209
+      Terrain_DirtRoad_Autotile_32_02_00: -4507020272896575870
+      Terrain_DirtRoad_Autotile_32_02_01: -2291730977106329012
+      Terrain_DirtRoad_Autotile_32_02_02: 7991365543713237935
+      Terrain_DirtRoad_Autotile_32_02_03: 4724091021493703066
+      Terrain_DirtRoad_Autotile_32_02_04: -5714800758670666269
+      Terrain_DirtRoad_Autotile_32_02_05: 4848325983945672771
+      Terrain_DirtRoad_Autotile_32_02_06: 5047425723592827263
+      Terrain_DirtRoad_Autotile_32_02_07: -2633759275041200785
+      Terrain_DirtRoad_Autotile_32_03_00: 3803853459359507240
+      Terrain_DirtRoad_Autotile_32_03_01: -6818859395260097312
+      Terrain_DirtRoad_Autotile_32_03_02: 3030886048568244807
+      Terrain_DirtRoad_Autotile_32_03_03: -4305788506261025271
+      Terrain_DirtRoad_Autotile_32_03_04: 7440471827140344429
+      Terrain_DirtRoad_Autotile_32_03_05: -2593582869697135831
+      Terrain_DirtRoad_Autotile_32_03_06: 4532501839702209172
+      Terrain_DirtRoad_Autotile_32_03_07: -5623971261366684846
+      Terrain_DirtRoad_Autotile_32_04_00: -924712351157108034
+      Terrain_DirtRoad_Autotile_32_04_01: -2363395728627173110
+      Terrain_DirtRoad_Autotile_32_04_02: -1686678751667355029
+      Terrain_DirtRoad_Autotile_32_04_03: 223613382276660091
+      Terrain_DirtRoad_Autotile_32_04_04: 6064503818736680004
+      Terrain_DirtRoad_Autotile_32_04_05: -1875889530361622791
+      Terrain_DirtRoad_Autotile_32_04_06: 9118670076149799094
+      Terrain_DirtRoad_Autotile_32_04_07: -1340992515561123142
+      Terrain_DirtRoad_Autotile_32_05_00: -2400696456788174587
+      Terrain_DirtRoad_Autotile_32_05_01: -2299412246752627870
+      Terrain_DirtRoad_Autotile_32_05_02: -8535450195125032242
+      Terrain_DirtRoad_Autotile_32_05_03: 2233935713211394717
+      Terrain_DirtRoad_Autotile_32_05_04: -6339801378878427903
+      Terrain_DirtRoad_Autotile_32_05_05: 5585064170386294342
+      Terrain_DirtRoad_Autotile_32_05_06: 4982174803273601354
+      Terrain_DirtRoad_Autotile_32_05_07: -5334245610055553067
+      Terrain_DirtRoad_Autotile_32_06_00: -2400384567076310720
+      Terrain_DirtRoad_Autotile_32_06_01: 5377959566218153982
+      Terrain_DirtRoad_Autotile_32_06_02: -579452292502603323
+      Terrain_DirtRoad_Autotile_32_06_03: -470015449044966537
+      Terrain_DirtRoad_Autotile_32_06_04: -2876178726752625835
+      Terrain_DirtRoad_Autotile_32_06_05: -1337446877486983874
+      Terrain_DirtRoad_Autotile_32_06_06: 4303652682498030699
+      Terrain_DirtRoad_Autotile_32_06_07: -6708858153878445728
+      Terrain_DirtRoad_Autotile_32_07_00: -5206139163705273269
+      Terrain_DirtRoad_Autotile_32_07_01: -1668768212685279234
+      Terrain_DirtRoad_Autotile_32_07_02: -8020633234152122236
+      Terrain_DirtRoad_Autotile_32_07_03: -3173078953917428115
+      Terrain_DirtRoad_Autotile_32_07_04: 3663724879160281255
+      Terrain_DirtRoad_Autotile_32_07_05: -2128843854912873621
+      Terrain_DirtRoad_Autotile_32_07_06: 8309111912121942096
+      Terrain_DirtRoad_Autotile_32_07_07: -4386546124626195529
+      Terrain_DirtRoad_Autotile_32_1: -5128993934019797178
+      Terrain_DirtRoad_Autotile_32_10: -7955557439173581454
+      Terrain_DirtRoad_Autotile_32_11: 4758744583406143463
+      Terrain_DirtRoad_Autotile_32_12: -8106375695056166308
+      Terrain_DirtRoad_Autotile_32_13: -7876322288360747627
+      Terrain_DirtRoad_Autotile_32_14: 9120113243323639511
+      Terrain_DirtRoad_Autotile_32_15: 5057762666375821442
+      Terrain_DirtRoad_Autotile_32_16: 3551705589397484014
+      Terrain_DirtRoad_Autotile_32_17: -6789693026650556239
+      Terrain_DirtRoad_Autotile_32_18: 8986427847746846050
+      Terrain_DirtRoad_Autotile_32_19: 8707678039168135027
+      Terrain_DirtRoad_Autotile_32_2: 1291083408702891002
+      Terrain_DirtRoad_Autotile_32_20: -5678577548051779855
+      Terrain_DirtRoad_Autotile_32_21: 8484354770772753879
+      Terrain_DirtRoad_Autotile_32_22: 7391584328445132416
+      Terrain_DirtRoad_Autotile_32_23: -8025428382888775
+      Terrain_DirtRoad_Autotile_32_24: -6693763827647785574
+      Terrain_DirtRoad_Autotile_32_25: -6590584140561997747
+      Terrain_DirtRoad_Autotile_32_26: -8599466886330114521
+      Terrain_DirtRoad_Autotile_32_27: -2227278921797579655
+      Terrain_DirtRoad_Autotile_32_28: -5984862327942740994
+      Terrain_DirtRoad_Autotile_32_29: 2083365767100153165
+      Terrain_DirtRoad_Autotile_32_3: -5903899237488944460
+      Terrain_DirtRoad_Autotile_32_30: 1696880655480400331
+      Terrain_DirtRoad_Autotile_32_31: 5182923023376069797
+      Terrain_DirtRoad_Autotile_32_32: 7549120277759074542
+      Terrain_DirtRoad_Autotile_32_33: 7329044574415690345
+      Terrain_DirtRoad_Autotile_32_34: -1777887733983892238
+      Terrain_DirtRoad_Autotile_32_35: -4598849559792015978
+      Terrain_DirtRoad_Autotile_32_36: -1175919850769898302
+      Terrain_DirtRoad_Autotile_32_37: 7014992010445875763
+      Terrain_DirtRoad_Autotile_32_38: 1659840930451467526
+      Terrain_DirtRoad_Autotile_32_39: -5367473797809116917
+      Terrain_DirtRoad_Autotile_32_4: -8140274487619992583
+      Terrain_DirtRoad_Autotile_32_40: -5395692041288925457
+      Terrain_DirtRoad_Autotile_32_41: -7465537628069239377
+      Terrain_DirtRoad_Autotile_32_42: 5727589055751744139
+      Terrain_DirtRoad_Autotile_32_43: 1159759617319741156
+      Terrain_DirtRoad_Autotile_32_44: 3215883311256221116
+      Terrain_DirtRoad_Autotile_32_45: -818718635253165940
+      Terrain_DirtRoad_Autotile_32_46: -3334524057452658261
+      Terrain_DirtRoad_Autotile_32_47: 4885070323881507347
+      Terrain_DirtRoad_Autotile_32_48: -5388146896206081299
+      Terrain_DirtRoad_Autotile_32_49: -511011131177393744
+      Terrain_DirtRoad_Autotile_32_5: -1704022237067628900
+      Terrain_DirtRoad_Autotile_32_50: -5564950331215349380
+      Terrain_DirtRoad_Autotile_32_51: -5963699768150437109
+      Terrain_DirtRoad_Autotile_32_52: 7115137628133477311
+      Terrain_DirtRoad_Autotile_32_53: -3717636897272073570
+      Terrain_DirtRoad_Autotile_32_54: -167050443021071836
+      Terrain_DirtRoad_Autotile_32_55: -2143221892747447145
+      Terrain_DirtRoad_Autotile_32_56: 6625856515877024401
+      Terrain_DirtRoad_Autotile_32_57: 7874458550562216359
+      Terrain_DirtRoad_Autotile_32_58: 4456963062335689795
+      Terrain_DirtRoad_Autotile_32_59: 2978465710073570333
+      Terrain_DirtRoad_Autotile_32_6: 7528938743992934731
+      Terrain_DirtRoad_Autotile_32_60: -2988904081191981808
+      Terrain_DirtRoad_Autotile_32_61: 7740915241442206558
+      Terrain_DirtRoad_Autotile_32_7: -6229130265683464116
+      Terrain_DirtRoad_Autotile_32_8: 372851224635926751
+      Terrain_DirtRoad_Autotile_32_9: -8674948842813529820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

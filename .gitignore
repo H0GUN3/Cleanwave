@@ -1,0 +1,52 @@
+# Unity generated folders
+CleanWave/Library/
+CleanWave/Temp/
+CleanWave/Obj/
+CleanWave/Logs/
+CleanWave/UserSettings/
+CleanWave/Assets/_Recovery/
+CleanWave/Assets/_Recovery.meta
+
+# Unity build outputs and local crash data
+CleanWave/Build/
+CleanWave/Builds/
+CleanWave/MemoryCaptures/
+CleanWave/Recordings/
+CleanWave/AssetStoreTools/
+CleanWave/*.csproj
+CleanWave/*.sln
+CleanWave/*.slnx
+CleanWave/*.user
+CleanWave/*.userprefs
+CleanWave/*.pidb
+CleanWave/*.booproj
+CleanWave/*.svd
+CleanWave/*.pdb
+CleanWave/*.mdb
+CleanWave/sysinfo.txt
+
+# IDE and OS local files
+.vs/
+.vscode/
+.idea/
+*.tmp
+*.temp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# OpenCode/Sisyphus local automation state
+AGENTS.md
+.sisyphus/
+.opencode/
+opencode.json
+PROJECT_CONTEXT.md
+
+# Local reference/export folders and documents
+img/
+소리/
+쓰레기 에셋/
+정화율 게임_hud/
+*_hud/
+*.pdf

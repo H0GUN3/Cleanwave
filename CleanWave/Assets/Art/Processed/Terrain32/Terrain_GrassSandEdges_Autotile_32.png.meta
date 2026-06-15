@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 3baa60ea3a3587a4da29628c2ca73e1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3884664016809256934
+    second: Terrain_GrassSandEdges_Autotile_32_0
+  - first:
+      213: -1423461402010649627
+    second: Terrain_GrassSandEdges_Autotile_32_00_00
+  - first:
+      213: -818686034004242451
+    second: Terrain_GrassSandEdges_Autotile_32_00_01
+  - first:
+      213: -2857135928735827985
+    second: Terrain_GrassSandEdges_Autotile_32_00_02
+  - first:
+      213: 5159690411402446230
+    second: Terrain_GrassSandEdges_Autotile_32_00_03
+  - first:
+      213: -7431046733488976318
+    second: Terrain_GrassSandEdges_Autotile_32_00_04
+  - first:
+      213: -736803445400041322
+    second: Terrain_GrassSandEdges_Autotile_32_00_05
+  - first:
+      213: 763006399844910483
+    second: Terrain_GrassSandEdges_Autotile_32_00_06
+  - first:
+      213: 1275394534083031452
+    second: Terrain_GrassSandEdges_Autotile_32_00_07
+  - first:
+      213: -5621385817064344515
+    second: Terrain_GrassSandEdges_Autotile_32_01_00
+  - first:
+      213: 7874586402128072521
+    second: Terrain_GrassSandEdges_Autotile_32_01_01
+  - first:
+      213: 5746656475736103805
+    second: Terrain_GrassSandEdges_Autotile_32_01_02
+  - first:
+      213: -915406285665376948
+    second: Terrain_GrassSandEdges_Autotile_32_01_03
+  - first:
+      213: -3275839217866275733
+    second: Terrain_GrassSandEdges_Autotile_32_01_04
+  - first:
+      213: 3481006888104419236
+    second: Terrain_GrassSandEdges_Autotile_32_01_05
+  - first:
+      213: -7667536933031442099
+    second: Terrain_GrassSandEdges_Autotile_32_01_06
+  - first:
+      213: 3220694172331723753
+    second: Terrain_GrassSandEdges_Autotile_32_01_07
+  - first:
+      213: 4503747348404524291
+    second: Terrain_GrassSandEdges_Autotile_32_02_00
+  - first:
+      213: -6197392494693062074
+    second: Terrain_GrassSandEdges_Autotile_32_02_01
+  - first:
+      213: -30804745864684381
+    second: Terrain_GrassSandEdges_Autotile_32_02_02
+  - first:
+      213: -915442915391126641
+    second: Terrain_GrassSandEdges_Autotile_32_02_03
+  - first:
+      213: 3739010448020250164
+    second: Terrain_GrassSandEdges_Autotile_32_02_04
+  - first:
+      213: -3947812177448180999
+    second: Terrain_GrassSandEdges_Autotile_32_02_05
+  - first:
+      213: 6326814463301833694
+    second: Terrain_GrassSandEdges_Autotile_32_02_06
+  - first:
+      213: -1765170178044820779
+    second: Terrain_GrassSandEdges_Autotile_32_02_07
+  - first:
+      213: 7051407528768819002
+    second: Terrain_GrassSandEdges_Autotile_32_03_00
+  - first:
+      213: -8144124130209997495
+    second: Terrain_GrassSandEdges_Autotile_32_03_01
+  - first:
+      213: 2871264692247292420
+    second: Terrain_GrassSandEdges_Autotile_32_03_02
+  - first:
+      213: 7477327549991026919
+    second: Terrain_GrassSandEdges_Autotile_32_03_03
+  - first:
+      213: 5530462778007761639
+    second: Terrain_GrassSandEdges_Autotile_32_03_04
+  - first:
+      213: 5437791003835659265
+    second: Terrain_GrassSandEdges_Autotile_32_03_05
+  - first:
+      213: -1205911842144807556
+    second: Terrain_GrassSandEdges_Autotile_32_03_06
+  - first:
+      213: -1324415445394947562
+    second: Terrain_GrassSandEdges_Autotile_32_03_07
+  - first:
+      213: -122915684092194707
+    second: Terrain_GrassSandEdges_Autotile_32_04_00
+  - first:
+      213: -9134572265021151153
+    second: Terrain_GrassSandEdges_Autotile_32_04_01
+  - first:
+      213: -953863282701202753
+    second: Terrain_GrassSandEdges_Autotile_32_04_02
+  - first:
+      213: -3791013065334165864
+    second: Terrain_GrassSandEdges_Autotile_32_04_03
+  - first:
+      213: -5841893082548936533
+    second: Terrain_GrassSandEdges_Autotile_32_04_04
+  - first:
+      213: 348838699522214230
+    second: Terrain_GrassSandEdges_Autotile_32_04_05
+  - first:
+      213: -1209503930799584480
+    second: Terrain_GrassSandEdges_Autotile_32_04_06
+  - first:
+      213: -4345398509347798737
+    second: Terrain_GrassSandEdges_Autotile_32_04_07
+  - first:
+      213: -9027697306877586532
+    second: Terrain_GrassSandEdges_Autotile_32_05_00
+  - first:
+      213: -5212799810734727367
+    second: Terrain_GrassSandEdges_Autotile_32_05_01
+  - first:
+      213: 2164028393295734248
+    second: Terrain_GrassSandEdges_Autotile_32_05_02
+  - first:
+      213: 4192893446640500462
+    second: Terrain_GrassSandEdges_Autotile_32_05_03
+  - first:
+      213: -7144301424117840522
+    second: Terrain_GrassSandEdges_Autotile_32_05_04
+  - first:
+      213: -1641488498622058245
+    second: Terrain_GrassSandEdges_Autotile_32_05_05
+  - first:
+      213: -8941389284219552775
+    second: Terrain_GrassSandEdges_Autotile_32_05_06
+  - first:
+      213: 2033826652052832575
+    second: Terrain_GrassSandEdges_Autotile_32_05_07
+  - first:
+      213: 6801853532727865815
+    second: Terrain_GrassSandEdges_Autotile_32_06_00
+  - first:
+      213: 7737764166202218548
+    second: Terrain_GrassSandEdges_Autotile_32_06_01
+  - first:
+      213: 3684934370324542015
+    second: Terrain_GrassSandEdges_Autotile_32_06_02
+  - first:
+      213: 3068504038944937753
+    second: Terrain_GrassSandEdges_Autotile_32_06_03
+  - first:
+      213: 8591159555653506175
+    second: Terrain_GrassSandEdges_Autotile_32_06_04
+  - first:
+      213: 580706694013675335
+    second: Terrain_GrassSandEdges_Autotile_32_06_05
+  - first:
+      213: 422197700137874944
+    second: Terrain_GrassSandEdges_Autotile_32_06_06
+  - first:
+      213: 9173199506552785994
+    second: Terrain_GrassSandEdges_Autotile_32_06_07
+  - first:
+      213: 6400721637723762391
+    second: Terrain_GrassSandEdges_Autotile_32_07_00
+  - first:
+      213: 5034704490096824544
+    second: Terrain_GrassSandEdges_Autotile_32_07_01
+  - first:
+      213: -83891105826666493
+    second: Terrain_GrassSandEdges_Autotile_32_07_02
+  - first:
+      213: -6344731278840072620
+    second: Terrain_GrassSandEdges_Autotile_32_07_03
+  - first:
+      213: -3797837677200584281
+    second: Terrain_GrassSandEdges_Autotile_32_07_04
+  - first:
+      213: -4991244845002981376
+    second: Terrain_GrassSandEdges_Autotile_32_07_05
+  - first:
+      213: 2790645382245871077
+    second: Terrain_GrassSandEdges_Autotile_32_07_06
+  - first:
+      213: -3261506322219121245
+    second: Terrain_GrassSandEdges_Autotile_32_07_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebfcad8569de3ce0800000000000000
+      internalID: -1423461402010649627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def8a90c36173a4f0800000000000000
+      internalID: -818686034004242451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7f1b4b20a6958d0800000000000000
+      internalID: -2857135928735827985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695c1aa8717ea9740800000000000000
+      internalID: 5159690411402446230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e00150e5e9fd890800000000000000
+      internalID: -7431046733488976318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69885af8b2956c5f0800000000000000
+      internalID: -736803445400041322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950b10374eb69a00800000000000000
+      internalID: 763006399844910483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_00_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917e78429c13b110800000000000000
+      internalID: 1275394534083031452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f57cf163dcf1b0800000000000000
+      internalID: -5621385817064344515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f07f38c96284d60800000000000000
+      internalID: 7874586402128072521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bd27a1e9930cf40800000000000000
+      internalID: 5746656475736103805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4561cd45d2db43f0800000000000000
+      internalID: -915406285665376948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6489c56691e982d0800000000000000
+      internalID: -3275839217866275733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd62252550f4030800000000000000
+      internalID: 3481006888104419236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d490974a8cf679590800000000000000
+      internalID: -7667536933031442099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_01_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebc008294432bc20800000000000000
+      internalID: 3220694172331723753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30552cbf956808e30800000000000000
+      internalID: 4503747348404524291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ae52c7c507ef9a0800000000000000
+      internalID: -6197392494693062074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd6513f3f829ff0800000000000000
+      internalID: -30804745864684381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83c6f7c481bb43f0800000000000000
+      internalID: -915442915391126641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e98bd3132a3e330800000000000000
+      internalID: 3739010448020250164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f26d33bdbd8639c0800000000000000
+      internalID: -3947812177448180999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3d8e4cb3c5dc750800000000000000
+      internalID: 6326814463301833694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_02_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28689431bd087e0800000000000000
+      internalID: -1765170178044820779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fc7c699c1abd160800000000000000
+      internalID: 7051407528768819002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d5524c0424afe80800000000000000
+      internalID: -8144124130209997495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a65856608c8d720800000000000000
+      internalID: 2871264692247292420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e005764acdc4c760800000000000000
+      internalID: 7477327549991026919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23cae489620cc40800000000000000
+      internalID: 5530462778007761639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104707a7b1ae67b40800000000000000
+      internalID: 5437791003835659265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75958a919db34fe0800000000000000
+      internalID: -1205911842144807556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_03_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61281326b2bbe9de0800000000000000
+      internalID: -1324415445394947562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d605c5826d05b4ef0800000000000000
+      internalID: -122915684092194707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4867480cea7b3180800000000000000
+      internalID: -9134572265021151153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8e4ee56233c2f0800000000000000
+      internalID: -953863282701202753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e64e5e3bd936bc0800000000000000
+      internalID: -3791013065334165864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ebde613d6deea0800000000000000
+      internalID: -5841893082548936533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594ee0f2f257d400800000000000000
+      internalID: 348838699522214230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b804a459af63fe0800000000000000
+      internalID: -1209503930799584480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_04_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2100d2241b02b3c0800000000000000
+      internalID: -4345398509347798737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c939fc3512d27b280800000000000000
+      internalID: -9027697306877586532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fdee3d03a68a7b0800000000000000
+      internalID: -5212799810734727367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e56042bb5c280e10800000000000000
+      internalID: 2164028393295734248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef114ff56203a30800000000000000
+      internalID: 4192893446640500462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6758327f4b75adc90800000000000000
+      internalID: -7144301424117840522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf03eb058e24839e0800000000000000
+      internalID: -1641488498622058245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbfb9bc1ddc9e380800000000000000
+      internalID: -8941389284219552775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_05_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c45a709a993c10800000000000000
+      internalID: 2033826652052832575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1fa7010c9056e50800000000000000
+      internalID: 6801853532727865815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438da32438f026b60800000000000000
+      internalID: 7737764166202218548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3272d34944832330800000000000000
+      internalID: 3684934370324542015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171a217a24859a20800000000000000
+      internalID: 3068504038944937753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f741e63191ee93770800000000000000
+      internalID: 8591159555653506175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747606759a51f0800800000000000000
+      internalID: 580706694013675335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00674b54292fbd500800000000000000
+      internalID: 422197700137874944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_06_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c0ed97950cd4f70800000000000000
+      internalID: 9173199506552785994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de6ea2ca6ee3d850800000000000000
+      internalID: 6400721637723762391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e019490f0dded540800000000000000
+      internalID: 5034704490096824544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3080365db75f5def0800000000000000
+      internalID: -83891105826666493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567d69848cf2f7a0800000000000000
+      internalID: -6344731278840072620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a15ddf11ce5b4bc0800000000000000
+      internalID: -3797837677200584281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000099a12498bbab0800000000000000
+      internalID: -4991244845002981376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed69de803d5ab620800000000000000
+      internalID: 2790645382245871077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_GrassSandEdges_Autotile_32_07_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54077b74dccb2d0800000000000000
+      internalID: -3261506322219121245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Terrain_GrassSandEdges_Autotile_32_0: 3884664016809256934
+      Terrain_GrassSandEdges_Autotile_32_00_00: -1423461402010649627
+      Terrain_GrassSandEdges_Autotile_32_00_01: -818686034004242451
+      Terrain_GrassSandEdges_Autotile_32_00_02: -2857135928735827985
+      Terrain_GrassSandEdges_Autotile_32_00_03: 5159690411402446230
+      Terrain_GrassSandEdges_Autotile_32_00_04: -7431046733488976318
+      Terrain_GrassSandEdges_Autotile_32_00_05: -736803445400041322
+      Terrain_GrassSandEdges_Autotile_32_00_06: 763006399844910483
+      Terrain_GrassSandEdges_Autotile_32_00_07: 1275394534083031452
+      Terrain_GrassSandEdges_Autotile_32_01_00: -5621385817064344515
+      Terrain_GrassSandEdges_Autotile_32_01_01: 7874586402128072521
+      Terrain_GrassSandEdges_Autotile_32_01_02: 5746656475736103805
+      Terrain_GrassSandEdges_Autotile_32_01_03: -915406285665376948
+      Terrain_GrassSandEdges_Autotile_32_01_04: -3275839217866275733
+      Terrain_GrassSandEdges_Autotile_32_01_05: 3481006888104419236
+      Terrain_GrassSandEdges_Autotile_32_01_06: -7667536933031442099
+      Terrain_GrassSandEdges_Autotile_32_01_07: 3220694172331723753
+      Terrain_GrassSandEdges_Autotile_32_02_00: 4503747348404524291
+      Terrain_GrassSandEdges_Autotile_32_02_01: -6197392494693062074
+      Terrain_GrassSandEdges_Autotile_32_02_02: -30804745864684381
+      Terrain_GrassSandEdges_Autotile_32_02_03: -915442915391126641
+      Terrain_GrassSandEdges_Autotile_32_02_04: 3739010448020250164
+      Terrain_GrassSandEdges_Autotile_32_02_05: -3947812177448180999
+      Terrain_GrassSandEdges_Autotile_32_02_06: 6326814463301833694
+      Terrain_GrassSandEdges_Autotile_32_02_07: -1765170178044820779
+      Terrain_GrassSandEdges_Autotile_32_03_00: 7051407528768819002
+      Terrain_GrassSandEdges_Autotile_32_03_01: -8144124130209997495
+      Terrain_GrassSandEdges_Autotile_32_03_02: 2871264692247292420
+      Terrain_GrassSandEdges_Autotile_32_03_03: 7477327549991026919
+      Terrain_GrassSandEdges_Autotile_32_03_04: 5530462778007761639
+      Terrain_GrassSandEdges_Autotile_32_03_05: 5437791003835659265
+      Terrain_GrassSandEdges_Autotile_32_03_06: -1205911842144807556
+      Terrain_GrassSandEdges_Autotile_32_03_07: -1324415445394947562
+      Terrain_GrassSandEdges_Autotile_32_04_00: -122915684092194707
+      Terrain_GrassSandEdges_Autotile_32_04_01: -9134572265021151153
+      Terrain_GrassSandEdges_Autotile_32_04_02: -953863282701202753
+      Terrain_GrassSandEdges_Autotile_32_04_03: -3791013065334165864
+      Terrain_GrassSandEdges_Autotile_32_04_04: -5841893082548936533
+      Terrain_GrassSandEdges_Autotile_32_04_05: 348838699522214230
+      Terrain_GrassSandEdges_Autotile_32_04_06: -1209503930799584480
+      Terrain_GrassSandEdges_Autotile_32_04_07: -4345398509347798737
+      Terrain_GrassSandEdges_Autotile_32_05_00: -9027697306877586532
+      Terrain_GrassSandEdges_Autotile_32_05_01: -5212799810734727367
+      Terrain_GrassSandEdges_Autotile_32_05_02: 2164028393295734248
+      Terrain_GrassSandEdges_Autotile_32_05_03: 4192893446640500462
+      Terrain_GrassSandEdges_Autotile_32_05_04: -7144301424117840522
+      Terrain_GrassSandEdges_Autotile_32_05_05: -1641488498622058245
+      Terrain_GrassSandEdges_Autotile_32_05_06: -8941389284219552775
+      Terrain_GrassSandEdges_Autotile_32_05_07: 2033826652052832575
+      Terrain_GrassSandEdges_Autotile_32_06_00: 6801853532727865815
+      Terrain_GrassSandEdges_Autotile_32_06_01: 7737764166202218548
+      Terrain_GrassSandEdges_Autotile_32_06_02: 3684934370324542015
+      Terrain_GrassSandEdges_Autotile_32_06_03: 3068504038944937753
+      Terrain_GrassSandEdges_Autotile_32_06_04: 8591159555653506175
+      Terrain_GrassSandEdges_Autotile_32_06_05: 580706694013675335
+      Terrain_GrassSandEdges_Autotile_32_06_06: 422197700137874944
+      Terrain_GrassSandEdges_Autotile_32_06_07: 9173199506552785994
+      Terrain_GrassSandEdges_Autotile_32_07_00: 6400721637723762391
+      Terrain_GrassSandEdges_Autotile_32_07_01: 5034704490096824544
+      Terrain_GrassSandEdges_Autotile_32_07_02: -83891105826666493
+      Terrain_GrassSandEdges_Autotile_32_07_03: -6344731278840072620
+      Terrain_GrassSandEdges_Autotile_32_07_04: -3797837677200584281
+      Terrain_GrassSandEdges_Autotile_32_07_05: -4991244845002981376
+      Terrain_GrassSandEdges_Autotile_32_07_06: 2790645382245871077
+      Terrain_GrassSandEdges_Autotile_32_07_07: -3261506322219121245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

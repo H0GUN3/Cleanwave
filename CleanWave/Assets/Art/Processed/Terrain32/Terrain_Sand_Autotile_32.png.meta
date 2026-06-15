@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: fc092573884303f4da4eb2419b2e7b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6950177806705987187
+    second: Terrain_Sand_Autotile_32_0
+  - first:
+      213: 6298526165089501283
+    second: Terrain_Sand_Autotile_32_00_00
+  - first:
+      213: 5782398028851040357
+    second: Terrain_Sand_Autotile_32_00_01
+  - first:
+      213: -6569352364367039923
+    second: Terrain_Sand_Autotile_32_00_02
+  - first:
+      213: 8798639597817408965
+    second: Terrain_Sand_Autotile_32_00_03
+  - first:
+      213: -2324874693778011432
+    second: Terrain_Sand_Autotile_32_00_04
+  - first:
+      213: 4847592722931771200
+    second: Terrain_Sand_Autotile_32_00_05
+  - first:
+      213: 5038558193215172813
+    second: Terrain_Sand_Autotile_32_00_06
+  - first:
+      213: -7430353203153931071
+    second: Terrain_Sand_Autotile_32_00_07
+  - first:
+      213: 8578167798357791856
+    second: Terrain_Sand_Autotile_32_01_00
+  - first:
+      213: -1424935295247953697
+    second: Terrain_Sand_Autotile_32_01_01
+  - first:
+      213: 5989878207731573882
+    second: Terrain_Sand_Autotile_32_01_02
+  - first:
+      213: 8790440191808283538
+    second: Terrain_Sand_Autotile_32_01_03
+  - first:
+      213: -8303702258728351100
+    second: Terrain_Sand_Autotile_32_01_04
+  - first:
+      213: -3518463362413409922
+    second: Terrain_Sand_Autotile_32_01_05
+  - first:
+      213: -5358878507686348303
+    second: Terrain_Sand_Autotile_32_01_06
+  - first:
+      213: -6936501695014357339
+    second: Terrain_Sand_Autotile_32_01_07
+  - first:
+      213: 6598121114888440160
+    second: Terrain_Sand_Autotile_32_02_00
+  - first:
+      213: -121107528858056064
+    second: Terrain_Sand_Autotile_32_02_01
+  - first:
+      213: 4409396609754344038
+    second: Terrain_Sand_Autotile_32_02_02
+  - first:
+      213: 1942393056659326823
+    second: Terrain_Sand_Autotile_32_02_03
+  - first:
+      213: -2355732706255166225
+    second: Terrain_Sand_Autotile_32_02_04
+  - first:
+      213: 7180719051198856279
+    second: Terrain_Sand_Autotile_32_02_05
+  - first:
+      213: -2841295549385959371
+    second: Terrain_Sand_Autotile_32_02_06
+  - first:
+      213: -1771395914856502560
+    second: Terrain_Sand_Autotile_32_02_07
+  - first:
+      213: 8590436408497567135
+    second: Terrain_Sand_Autotile_32_03_00
+  - first:
+      213: 8009497500666901022
+    second: Terrain_Sand_Autotile_32_03_01
+  - first:
+      213: -5451917588107583238
+    second: Terrain_Sand_Autotile_32_03_02
+  - first:
+      213: 3455025735312315373
+    second: Terrain_Sand_Autotile_32_03_03
+  - first:
+      213: 8381138365816948952
+    second: Terrain_Sand_Autotile_32_03_04
+  - first:
+      213: 9730983305525753
+    second: Terrain_Sand_Autotile_32_03_05
+  - first:
+      213: 8861031162143325662
+    second: Terrain_Sand_Autotile_32_03_06
+  - first:
+      213: -4006889883337851450
+    second: Terrain_Sand_Autotile_32_03_07
+  - first:
+      213: 4239871707735117909
+    second: Terrain_Sand_Autotile_32_04_00
+  - first:
+      213: -1468336873178861738
+    second: Terrain_Sand_Autotile_32_04_01
+  - first:
+      213: 6656783674144912739
+    second: Terrain_Sand_Autotile_32_04_02
+  - first:
+      213: -5356017435678456813
+    second: Terrain_Sand_Autotile_32_04_03
+  - first:
+      213: -4808579964936680366
+    second: Terrain_Sand_Autotile_32_04_04
+  - first:
+      213: -4325603904061691103
+    second: Terrain_Sand_Autotile_32_04_05
+  - first:
+      213: 986793844683829563
+    second: Terrain_Sand_Autotile_32_04_06
+  - first:
+      213: -439890002417860926
+    second: Terrain_Sand_Autotile_32_04_07
+  - first:
+      213: 428322262445710060
+    second: Terrain_Sand_Autotile_32_05_00
+  - first:
+      213: -1354263203043278332
+    second: Terrain_Sand_Autotile_32_05_01
+  - first:
+      213: 1790112634777094431
+    second: Terrain_Sand_Autotile_32_05_02
+  - first:
+      213: 3735169659402235776
+    second: Terrain_Sand_Autotile_32_05_03
+  - first:
+      213: 2080218459842371701
+    second: Terrain_Sand_Autotile_32_05_04
+  - first:
+      213: 6200879653641436152
+    second: Terrain_Sand_Autotile_32_05_05
+  - first:
+      213: -597537879679997681
+    second: Terrain_Sand_Autotile_32_05_06
+  - first:
+      213: -3077941013243411632
+    second: Terrain_Sand_Autotile_32_05_07
+  - first:
+      213: -8489729554667020261
+    second: Terrain_Sand_Autotile_32_06_00
+  - first:
+      213: -8755320288859822042
+    second: Terrain_Sand_Autotile_32_06_01
+  - first:
+      213: -2298004648782415903
+    second: Terrain_Sand_Autotile_32_06_02
+  - first:
+      213: 345935133593021689
+    second: Terrain_Sand_Autotile_32_06_03
+  - first:
+      213: -6854877866213909808
+    second: Terrain_Sand_Autotile_32_06_04
+  - first:
+      213: 4025490743802897434
+    second: Terrain_Sand_Autotile_32_06_05
+  - first:
+      213: 6216448999480719831
+    second: Terrain_Sand_Autotile_32_06_06
+  - first:
+      213: 272076843477128515
+    second: Terrain_Sand_Autotile_32_06_07
+  - first:
+      213: -982243111656615120
+    second: Terrain_Sand_Autotile_32_07_00
+  - first:
+      213: 6145570093442353271
+    second: Terrain_Sand_Autotile_32_07_01
+  - first:
+      213: 1349147036660110488
+    second: Terrain_Sand_Autotile_32_07_02
+  - first:
+      213: -8461052977867206756
+    second: Terrain_Sand_Autotile_32_07_03
+  - first:
+      213: 879732747131104312
+    second: Terrain_Sand_Autotile_32_07_04
+  - first:
+      213: 6811271932087228493
+    second: Terrain_Sand_Autotile_32_07_05
+  - first:
+      213: 3118794809226283410
+    second: Terrain_Sand_Autotile_32_07_06
+  - first:
+      213: -5301740844582278326
+    second: Terrain_Sand_Autotile_32_07_07
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360c9a61d2cd86750800000000000000
+      internalID: 6298526165089501283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d59bee543f3050800000000000000
+      internalID: 5782398028851040357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42b78d94d8f4d4a0800000000000000
+      internalID: -6569352364367039923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda796d81c0b1a70800000000000000
+      internalID: 8798639597817408965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da0112a8c26cbfd0800000000000000
+      internalID: -2324874693778011432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047ed1ad5eb164340800000000000000
+      internalID: 4847592722931771200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc079b63bfd8ce540800000000000000
+      internalID: 5038558193215172813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_00_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f252212512e890800000000000000
+      internalID: -7430353203153931071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749fccd926cb0770800000000000000
+      internalID: 8578167798357791856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd054da06ec993ce0800000000000000
+      internalID: -1424935295247953697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74a1b38e72502350800000000000000
+      internalID: 5989878207731573882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293ac0cd7caedf970800000000000000
+      internalID: 8790440191808283538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a43e36ac253cc80800000000000000
+      internalID: -8303702258728351100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e794f18a638eb2fc0800000000000000
+      internalID: -3518463362413409922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f931eac36071a5b0800000000000000
+      internalID: -5358878507686348303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_01_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a636c4a5789cbf90800000000000000
+      internalID: -6936501695014357339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0690ee5123c319b50800000000000000
+      internalID: 6598121114888440160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a4aca185db15ef0800000000000000
+      internalID: -121107528858056064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2836cad2513d30800000000000000
+      internalID: 4409396609754344038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7674d5c9134c4fa10800000000000000
+      internalID: 1942393056659326823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe424e9b591ce4fd0800000000000000
+      internalID: -2355732706255166225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c76969ee907a360800000000000000
+      internalID: 7180719051198856279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53893fc60c0b198d0800000000000000
+      internalID: -2841295549385959371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_02_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea666afcccba67e0800000000000000
+      internalID: -1771395914856502560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f957412466c573770800000000000000
+      internalID: 8590436408497567135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1231ac6a83772f60800000000000000
+      internalID: 8009497500666901022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a420d6d5e654b0800000000000000
+      internalID: -5451917588107583238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de39f1bc997b2ff20800000000000000
+      internalID: 3455025735312315373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8cae340f8cf4470800000000000000
+      internalID: 8381138365816948952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9bd3b1742922000800000000000000
+      internalID: 9730983305525753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd383be4e4b8fa70800000000000000
+      internalID: 8861031162143325662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_03_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd7a8961eaa468c0800000000000000
+      internalID: -4006889883337851450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550d7c8badc07da30800000000000000
+      internalID: 4239871707735117909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fe097b46b6f9be0800000000000000
+      internalID: -1468336873178861738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f6048b75a16c50800000000000000
+      internalID: 6656783674144912739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3144697058a9ba5b0800000000000000
+      internalID: -5356017435678456813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c83e3bffd744db0800000000000000
+      internalID: -4808579964936680366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b2c53da2e58f3c0800000000000000
+      internalID: -4325603904061691103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31fbe206cbc1bd00800000000000000
+      internalID: 986793844683829563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_04_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce33a99f5235e9f0800000000000000
+      internalID: -439890002417860926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cead77e04d4b1f500800000000000000
+      internalID: 428322262445710060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020932cac0b43de0800000000000000
+      internalID: -1354263203043278332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c3d7f4f1c7d810800000000000000
+      internalID: 1790112634777094431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fac74f30df5d330800000000000000
+      internalID: 3735169659402235776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5706d12faab6edc10800000000000000
+      internalID: 2080218459842371701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbbe3af033fd0650800000000000000
+      internalID: 6200879653641436152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0965ddd67e15b7f0800000000000000
+      internalID: -597537879679997681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_05_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0534502c4f4f845d0800000000000000
+      internalID: -3077941013243411632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10efe653fb6e2a80800000000000000
+      internalID: -8489729554667020261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286dbfb59ade7680800000000000000
+      internalID: -8755320288859822042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7b02182f8db10e0800000000000000
+      internalID: -2298004648782415903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fca321db220dc400800000000000000
+      internalID: 345935133593021689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dad1ad36e49ed0a0800000000000000
+      internalID: -6854877866213909808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14aef6e08a6dd730800000000000000
+      internalID: 4025490743802897434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9716acd63454650800000000000000
+      internalID: 6216448999480719831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_06_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455017927c96c300800000000000000
+      internalID: 272076843477128515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_00
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03312a6181f5e52f0800000000000000
+      internalID: -982243111656615120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77845e97073794550800000000000000
+      internalID: 6145570093442353271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89495ede41229b210800000000000000
+      internalID: 1349147036660110488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_03
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fc67c252d449a80800000000000000
+      internalID: -8461052977867206756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_04
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c2702c540753c00800000000000000
+      internalID: 879732747131104312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_05
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48d5ac0cbf768e50800000000000000
+      internalID: 6811271932087228493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_06
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c34bda5f284b20800000000000000
+      internalID: 3118794809226283410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain_Sand_Autotile_32_07_07
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b6e7baace6c66b0800000000000000
+      internalID: -5301740844582278326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Terrain_Sand_Autotile_32_0: 6950177806705987187
+      Terrain_Sand_Autotile_32_00_00: 6298526165089501283
+      Terrain_Sand_Autotile_32_00_01: 5782398028851040357
+      Terrain_Sand_Autotile_32_00_02: -6569352364367039923
+      Terrain_Sand_Autotile_32_00_03: 8798639597817408965
+      Terrain_Sand_Autotile_32_00_04: -2324874693778011432
+      Terrain_Sand_Autotile_32_00_05: 4847592722931771200
+      Terrain_Sand_Autotile_32_00_06: 5038558193215172813
+      Terrain_Sand_Autotile_32_00_07: -7430353203153931071
+      Terrain_Sand_Autotile_32_01_00: 8578167798357791856
+      Terrain_Sand_Autotile_32_01_01: -1424935295247953697
+      Terrain_Sand_Autotile_32_01_02: 5989878207731573882
+      Terrain_Sand_Autotile_32_01_03: 8790440191808283538
+      Terrain_Sand_Autotile_32_01_04: -8303702258728351100
+      Terrain_Sand_Autotile_32_01_05: -3518463362413409922
+      Terrain_Sand_Autotile_32_01_06: -5358878507686348303
+      Terrain_Sand_Autotile_32_01_07: -6936501695014357339
+      Terrain_Sand_Autotile_32_02_00: 6598121114888440160
+      Terrain_Sand_Autotile_32_02_01: -121107528858056064
+      Terrain_Sand_Autotile_32_02_02: 4409396609754344038
+      Terrain_Sand_Autotile_32_02_03: 1942393056659326823
+      Terrain_Sand_Autotile_32_02_04: -2355732706255166225
+      Terrain_Sand_Autotile_32_02_05: 7180719051198856279
+      Terrain_Sand_Autotile_32_02_06: -2841295549385959371
+      Terrain_Sand_Autotile_32_02_07: -1771395914856502560
+      Terrain_Sand_Autotile_32_03_00: 8590436408497567135
+      Terrain_Sand_Autotile_32_03_01: 8009497500666901022
+      Terrain_Sand_Autotile_32_03_02: -5451917588107583238
+      Terrain_Sand_Autotile_32_03_03: 3455025735312315373
+      Terrain_Sand_Autotile_32_03_04: 8381138365816948952
+      Terrain_Sand_Autotile_32_03_05: 9730983305525753
+      Terrain_Sand_Autotile_32_03_06: 8861031162143325662
+      Terrain_Sand_Autotile_32_03_07: -4006889883337851450
+      Terrain_Sand_Autotile_32_04_00: 4239871707735117909
+      Terrain_Sand_Autotile_32_04_01: -1468336873178861738
+      Terrain_Sand_Autotile_32_04_02: 6656783674144912739
+      Terrain_Sand_Autotile_32_04_03: -5356017435678456813
+      Terrain_Sand_Autotile_32_04_04: -4808579964936680366
+      Terrain_Sand_Autotile_32_04_05: -4325603904061691103
+      Terrain_Sand_Autotile_32_04_06: 986793844683829563
+      Terrain_Sand_Autotile_32_04_07: -439890002417860926
+      Terrain_Sand_Autotile_32_05_00: 428322262445710060
+      Terrain_Sand_Autotile_32_05_01: -1354263203043278332
+      Terrain_Sand_Autotile_32_05_02: 1790112634777094431
+      Terrain_Sand_Autotile_32_05_03: 3735169659402235776
+      Terrain_Sand_Autotile_32_05_04: 2080218459842371701
+      Terrain_Sand_Autotile_32_05_05: 6200879653641436152
+      Terrain_Sand_Autotile_32_05_06: -597537879679997681
+      Terrain_Sand_Autotile_32_05_07: -3077941013243411632
+      Terrain_Sand_Autotile_32_06_00: -8489729554667020261
+      Terrain_Sand_Autotile_32_06_01: -8755320288859822042
+      Terrain_Sand_Autotile_32_06_02: -2298004648782415903
+      Terrain_Sand_Autotile_32_06_03: 345935133593021689
+      Terrain_Sand_Autotile_32_06_04: -6854877866213909808
+      Terrain_Sand_Autotile_32_06_05: 4025490743802897434
+      Terrain_Sand_Autotile_32_06_06: 6216448999480719831
+      Terrain_Sand_Autotile_32_06_07: 272076843477128515
+      Terrain_Sand_Autotile_32_07_00: -982243111656615120
+      Terrain_Sand_Autotile_32_07_01: 6145570093442353271
+      Terrain_Sand_Autotile_32_07_02: 1349147036660110488
+      Terrain_Sand_Autotile_32_07_03: -8461052977867206756
+      Terrain_Sand_Autotile_32_07_04: 879732747131104312
+      Terrain_Sand_Autotile_32_07_05: 6811271932087228493
+      Terrain_Sand_Autotile_32_07_06: 3118794809226283410
+      Terrain_Sand_Autotile_32_07_07: -5301740844582278326
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
