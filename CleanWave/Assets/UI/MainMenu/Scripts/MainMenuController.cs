@@ -12,8 +12,6 @@ using UnityEditor;
 public class MainMenuController : MonoBehaviour
 {
     const string StartClipPath = "Audio/Game/start_explosion";
-    const string StartHoverPath = "UI/MainMenu/menu_hover_start";
-    const string ExitHoverPath = "UI/MainMenu/menu_hover_exit";
 
     [SerializeField] string gameplaySceneName = "MainScene";
     [SerializeField] Button gameStartButton;
@@ -30,20 +28,22 @@ public class MainMenuController : MonoBehaviour
 
         if (gameStartButton != null)
         {
-            EnsureHoverFeedback(gameStartButton, StartHoverPath);
+            EnsureHoverFeedback(gameStartButton);
             gameStartButton.onClick.RemoveListener(StartGame);
             gameStartButton.onClick.AddListener(StartGame);
         }
 
         if (exitButton != null)
         {
-            EnsureHoverFeedback(exitButton, ExitHoverPath);
+            EnsureHoverFeedback(exitButton);
             exitButton.onClick.RemoveListener(ExitGame);
             exitButton.onClick.AddListener(ExitGame);
         }
     }
 
-    void EnsureHoverFeedback(Button button, string hoverOverlayPath)
+    // 호버 시 이미지 전환은 ButtonSpriteSwap이 담당한다.
+    // 여기서는 transition을 끄고 hover 사운드만 유지한다.
+    void EnsureHoverFeedback(Button button)
     {
         button.transition = Selectable.Transition.None;
         DisableScaleFeedback(button);
@@ -52,7 +52,7 @@ public class MainMenuController : MonoBehaviour
         if (feedback == null)
             feedback = button.gameObject.AddComponent<UIHoverFeedback>();
 
-        feedback.ConfigureHoverOverlay(hoverOverlayPath);
+        feedback.ConfigureStateColors(Color.white, Color.white);
     }
 
     static void DisableScaleFeedback(Button button)

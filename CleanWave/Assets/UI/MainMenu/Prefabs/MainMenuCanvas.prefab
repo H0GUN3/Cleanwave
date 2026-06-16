@@ -207,6 +207,7 @@ GameObject:
   - component: {fileID: 1303}
   - component: {fileID: 1304}
   - component: {fileID: 1305}
+  - component: {fileID: 1306}
   m_Layer: 0
   m_Name: StartButton
   m_TagString: Untagged
@@ -231,7 +232,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 8, y: -56}
-  m_SizeDelta: {x: 340.4868, y: 84.5717}
+  m_SizeDelta: {x: 340.49, y: 92.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1303
 CanvasRenderer:
@@ -254,16 +255,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.1649735, g: 1, b: 0, a: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 3980168229369012863, guid: 533f14f941e9e7e478c5dc5bb825a930, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -339,6 +340,7 @@ GameObject:
   - component: {fileID: 1403}
   - component: {fileID: 1404}
   - component: {fileID: 1405}
+  - component: {fileID: 1406}
   m_Layer: 0
   m_Name: ExitButton
   m_TagString: Untagged
@@ -362,8 +364,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.577, y: -187.30762}
-  m_SizeDelta: {x: 340.49, y: 81.563}
+  m_AnchoredPosition: {x: 8, y: -187.30762}
+  m_SizeDelta: {x: 340.49, y: 92.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1403
 CanvasRenderer:
@@ -386,16 +388,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.4, b: 1, a: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 7347265049222261331, guid: e07d9bef06b0514438f89f9e95fdf7c6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -453,9 +455,39 @@ MonoBehaviour:
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName:
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument:
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f8c1d24b6e47f9b0c5e2a7d8149f63, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  targetImage: {fileID: 1304}
+  normalSprite: {fileID: 3980168229369012863, guid: 533f14f941e9e7e478c5dc5bb825a930, type: 3}
+  hoverSprite: {fileID: -2929104831786091157, guid: dc0f959460659104c8d0f38792caf80a, type: 3}
+--- !u!114 &1406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f8c1d24b6e47f9b0c5e2a7d8149f63, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  targetImage: {fileID: 1404}
+  normalSprite: {fileID: 7347265049222261331, guid: e07d9bef06b0514438f89f9e95fdf7c6, type: 3}
+  hoverSprite: {fileID: 5843252093450499954, guid: 0c7f564a2e42f4040b34dc358d56cf61, type: 3}

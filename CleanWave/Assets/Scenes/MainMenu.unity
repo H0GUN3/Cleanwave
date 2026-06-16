@@ -636,6 +636,7 @@ GameObject:
   - component: {fileID: 1608468125}
   - component: {fileID: 1608468124}
   - component: {fileID: 1608468123}
+  - component: {fileID: 1608468130}
   m_Layer: 0
   m_Name: StartButton
   m_TagString: Untagged
@@ -712,16 +713,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 3980168229369012863, guid: 533f14f941e9e7e478c5dc5bb825a930, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -729,6 +730,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &1608468130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1608468122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f8c1d24b6e47f9b0c5e2a7d8149f63, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  targetImage: {fileID: 1608468124}
+  normalSprite: {fileID: 3980168229369012863, guid: 533f14f941e9e7e478c5dc5bb825a930, type: 3}
+  hoverSprite: {fileID: -2929104831786091157, guid: dc0f959460659104c8d0f38792caf80a, type: 3}
 --- !u!222 &1608468125
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -754,7 +770,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 5.7, y: -80.2951}
-  m_SizeDelta: {x: 372.2689, y: 99.1409}
+  m_SizeDelta: {x: 372.25, y: 101}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1623984502
 MonoBehaviour:
@@ -913,6 +929,7 @@ GameObject:
   - component: {fileID: 2118650518}
   - component: {fileID: 2118650517}
   - component: {fileID: 2118650516}
+  - component: {fileID: 2118650530}
   m_Layer: 0
   m_Name: ExitButton
   m_TagString: Untagged
@@ -989,16 +1006,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.4, b: 1, a: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 7347265049222261331, guid: e07d9bef06b0514438f89f9e95fdf7c6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1006,6 +1023,21 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &2118650530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118650515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3f8c1d24b6e47f9b0c5e2a7d8149f63, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  targetImage: {fileID: 2118650517}
+  normalSprite: {fileID: 7347265049222261331, guid: e07d9bef06b0514438f89f9e95fdf7c6, type: 3}
+  hoverSprite: {fileID: 5843252093450499954, guid: 0c7f564a2e42f4040b34dc358d56cf61, type: 3}
 --- !u!222 &2118650518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1030,8 +1062,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.6903, y: -186.96889}
-  m_SizeDelta: {x: 372.25, y: 103.8361}
+  m_AnchoredPosition: {x: 5.7, y: -186.96889}
+  m_SizeDelta: {x: 372.25, y: 101}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
