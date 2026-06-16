@@ -137,6 +137,9 @@ public class ZoneProgressGate : MonoBehaviour
         if (zoneUnlockClip == null)
             zoneUnlockClip = Resources.Load<AudioClip>(ZoneUnlockClipPath);
 
+        if (zoneUnlockClip != null && zoneUnlockClip.loadState == AudioDataLoadState.Unloaded)
+            zoneUnlockClip.LoadAudioData();
+
         if (zoneUnlockClip != null)
             AudioSource.PlayClipAtPoint(zoneUnlockClip, transform.position, unlockVolume);
     }

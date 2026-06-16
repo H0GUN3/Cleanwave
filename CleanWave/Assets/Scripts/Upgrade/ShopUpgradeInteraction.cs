@@ -110,6 +110,9 @@ public class ShopUpgradeInteraction : MonoBehaviour
         if (upgradeClip == null)
             upgradeClip = Resources.Load<AudioClip>(UpgradeClipPath);
 
+        if (upgradeClip != null && upgradeClip.loadState == AudioDataLoadState.Unloaded)
+            upgradeClip.LoadAudioData();
+
         if (upgradeClip != null)
             AudioSource.PlayClipAtPoint(upgradeClip, transform.position, upgradeVolume);
     }
